@@ -1,15 +1,21 @@
-## How to make $XX from sports books, guaranteed!
+## How to make $$ from online sportsbooks!
 
 With online sports gambling becoming legal in so many states, there are a huge number of new online sportsbooks being created, and all of them are fighting for your business. Think back to the days when Uber and Lyft were competing by giving out free rides, or food delivery apps were giving out free meals.  The same thing is going on today with online sportsbooks, except rather than rides or food, **they are giving you cash!**  By simply taking advantage of these sportsbook promotions, **I have made over $7,000 in the past year**, and I will show you how to do the same, with limited to no risk and effort.
 
+Additionally, there are so many sportsbooks to choose from, I will provide a quick overview of the pros and cons of some of my favorites in the section that follows
 
-You can use the [editor on GitHub](https://github.com/sportsbookguru/sportsbookguru.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Sign-Up Bonuses
 
-### Markdown
+The easiest way to make money quickly is by taking advantage of the new user promos that many books are offering.  Below I have detailed a list of my favorite sign-up bonuses and the best way to take advantage of them.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+| Sportsbook | Summary | Period | Details | Advice |
+|------------|---------|--------|---------|--------|
+|Fanduel     |$1,000 "Risk Free" Bet|Until Jan. 31, 2022|1. Sign up for Fanduel Sportsbook at the link provided<br />2. Make your first deposit<br />3. Place your first bet. If it loses, you will be refunded up to $1,000 in site credit (within 72 hours)| -Make sure your first bet is $1,000<br /> -on Fanduel, when bets made with site credit are won, you also receive the site credit as cash (if I win a $1,000 bet made on credit, with +100 odds, I receive $2,000 total)|
+
+
+
 
 ```markdown
 Syntax highlighted code block
