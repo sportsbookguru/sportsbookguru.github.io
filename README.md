@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## How to make $XX from sports books, guaranteed!
+
+With online sports gambling becoming legal in so many states, there are a huge number of new online sportsbooks being created, and all of them are fighting for your business. Think back to the days when Uber and Lyft were competing by giving out free rides, or food delivery apps were giving out free meals.  The same thing is going on today with online sportsbooks, except rather than rides or food, **they are giving you cash!**  By simply taking advantage of these sportsbook promotions, **I have made over $7,000 in the past year**, and I will show you how to do the same, with limited to no risk and effort.
+
 
 You can use the [editor on GitHub](https://github.com/sportsbookguru/sportsbookguru.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
