@@ -4,7 +4,6 @@ With online sports gambling becoming legal in so many states, there are a huge n
 
 Additionally, there are so many sportsbooks to choose from, I will provide a quick overview of the pros and cons of some of my favorites in the section that follows
 
-![Book logo](/sportsbookguru.github.io/docs/assets/FanduelLogo.png)
 
 ### Sign-Up Bonuses
 
@@ -13,7 +12,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
 
 | Sportsbook | Summary | Period | Details | Advice |
 |------------|---------|--------|---------|--------|
-|Fanduel     |$1,000 "Risk Free" Bet|Until Jan. 31, 2022|1. Sign up for Fanduel Sportsbook at the link provided<br />2. Make your first deposit<br />3. Place your first bet. If it loses, you will be refunded up to $1,000 in site credit (within 72 hours)| -Make sure your first bet is $1,000<br /> -on Fanduel, when bets made with site credit are won, you also receive the site credit as cash (if I win a $1,000 bet made on credit, with +100 odds, I receive $2,000 total)|
+|![fanduel_logo](docs/assets/FanduelLogo.png)<br />Fanduel     |$1,000 "Risk Free" Bet|Until Jan. 31, 2022|1. Sign up for Fanduel Sportsbook at the link provided<br />2. Make your first deposit<br />3. Place your first bet. If it loses, you will be refunded up to $1,000 in site credit (within 72 hours)| -Make sure your first bet is $1,000<br /> -on Fanduel, when bets made with site credit are won, you also receive the site credit as cash (if I win a $1,000 bet made on credit, with +100 odds, I receive $2,000 total)|
 
 
 
