@@ -6,7 +6,7 @@ With online sports gambling becoming legal in so many states, a huge number of o
 
 ### Sign-Up Bonuses
 
-The easiest way to make money quickly is by taking advantage of the new user promos that many books are offering.  Below I have detailed a list of my favorite sign-up bonuses and the best way to take advantage of them.
+The easiest way to make money quickly is by taking advantage of the new user promos that many books are offering.  Below I have detailed a list of my favorite sign-up bonuses and the best way to take advantage of them. See "How to remove risk" section that follows for more details on how to combine sign-up bonuses for **guaranteed cash**.
 
 <table width ="100%">
   <col style="width:20%">
@@ -97,4 +97,22 @@ The easiest way to make money quickly is by taking advantage of the new user pro
   </tr>
   </tbody>
 </table>
+
+### How To Guarantee Winnings From The Above Promos
+There are ways to guarantee that you will net a positive return with the sign-up bonuses highlighted above.  Below are the details on how to do so.
+
+#### Strategy 1: For books that award "Free Bet" stake when "Free Bets" are won
+**$1,000 Risk Free Bet = $410**
+**Applies to:** Fanduel Sportsbook, Barstool Sportsbook
+
+
+1. Find a buddy
+2. Sign up using the instructions & links above and deposit funds to receive your risk free bet promo
+3. Find an event that has a half point spread (e.g. -5.5 and +5.5) and even odds on both sides of the line (usually -110 on each side is the best you will see)
+4. You & your buddy each bet on opposite sides of this line (e.g. you bet Home team to cover -5.5 and your friend bets Away team to cover +5.5, both at -110 odds). This way, you guarantee one of you will win and one of you will lose
+5. At -110, a $1,000 bet will net you $910, so if you win you will have $1,910 and your friend will have a $1,000 free bet credit
+6. Repeat steps 3 & 4 for the same amount
+7. If you win, you will now have $1,910 + $910 = $2,820 and your friend will have $0. Split the total so you each receive $1,410.
+8. If you lose, you will now have $910 and your friend will have $1,910, for a total of $2,820.  Split the total so you each receive $1,410.
+9. After accounting for the $1,000 initially deposited, you each net $410 absolutely guaranteed
 
