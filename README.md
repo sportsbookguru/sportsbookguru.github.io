@@ -116,7 +116,7 @@ There are ways to guarantee that you will net a positive return with the sign-up
 8. If you lose, you will now have $910 and your friend will have $1,910, for a total of $2,820.  Split the total so you each receive $1,410.
 9. After accounting for the $1,000 initially deposited, you each net $410 absolutely guaranteed
 
-#### Strategy 1: For books that award "Free Bet" stake when "Free Bets" are won
+#### Strategy 2: For books that do not award "Free Bet" stake when "Free Bets" are won
 **$1,000 Risk Free Bet = $410**<br />
 **Applies to:** Fanduel Sportsbook, Barstool Sportsbook
 
@@ -127,8 +127,10 @@ There are ways to guarantee that you will net a positive return with the sign-up
   1. The half point spread ensures there is no possibility of a tie
 4. You & your buddy each bet on opposite sides of this line (e.g. you bet Home team to cover -5.5 and your friend bets Away team to cover +5.5, both at -110 odds). This way, you guarantee one of you will win and one of you will lose
   1. At -110, a $1,000 bet will net you $910, so if you win you will have $1,910 and your friend will have a $1,000 free bet credit
-4. Repeat steps 3 & 4 for the same amount
-  1. If you win, you will now have $1,910 + $910 = $2,820 and your friend will have $0. Split the total so you each receive $1,410.
-  2. If you lose, you will now have $910 and your friend will have $1,910, for a total of $2,820.  Split the total so you each receive $1,410.
-  3. After accounting for the $1,000 initially deposited, you each net $410 absolutely guaranteed
+4. Repeat steps 3 & 4, however whoever won the first bet will need to alter the bet amount of the second bet
+  1. If your friend has a $1,000 free bet credit, then the total <i>winnings</i> they could be awarded is only $910, as the free bet staked will not be awarded back as well
+  2. If you won the first bet, then the second bet placed should only be $475
+    1. If you win, you will now have $1,910 + $431(your winnings) = $2,341 and your friend will have $0. Split the total so you each receive $1,170
+    2. If you lose, you will now have $1,910 - $475 = $1,435 and your friend will have $910 (since the $1,000 free bet is not credited back), for a total of $2,345.  Split the total so you each receive $1,172
+  5. After accounting for the $1,000 initially deposited, you each net ~$170 absolutely guaranteed
 
