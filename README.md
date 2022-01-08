@@ -4,6 +4,7 @@ With online sports gambling becoming legal in so many states, there are a huge n
 
 Additionally, there are so many sportsbooks to choose from, I will provide a quick overview of the pros and cons of some of my favorites in the section that follows
 
+![Book logo](/sportsbookguru.github.io/assets/FanduelLogo.jpg)
 
 ### Sign-Up Bonuses
 
