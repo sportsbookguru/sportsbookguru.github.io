@@ -8,7 +8,7 @@ With online sports gambling becoming legal in so many states, a huge number of o
 
 The easiest way to make money quickly is by taking advantage of the new user promos that many books are offering.  Below I have detailed a list of my favorite sign-up bonuses and the best way to take advantage of them.
 
-<table width ="100%">
+<table width ="100%" cellpadding="0" cellspacing="0">
   <col style="width:10%">
   <col style="width:10%">
   <col style="width:40%">
@@ -23,17 +23,17 @@ The easiest way to make money quickly is by taking advantage of the new user pro
   </thead>
   <tbody>
   <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/FanduelLogo.png" width="75" height="75"><b>Fanduel</b></td>
+    <td align = "Center"><img src="docs/assets/FanduelLogo.png" width="85" height="85"><b>Fanduel</b></td>
     <td>$1,000 "Risk Free" Bet<br /><br />
       <font size="1"><i>Until Jan. 31st, 2022</i></font></td>
-    <td align = "Left" padding="1px">
+    <td align = "Left">
       <ol>
         <li>Sign up for Fanduel Sportsbook at the link provided</li>
         <li>Make your first deposit</li>
         <li>Place your first bet. If it loses, you will be refunded up to $1,000 in site credit (within 72 hours)</li>
       </ol>
     </td>
-    <td align = "Left" padding="10px">
+    <td align = "Left">
       <ul>
         <li>Make sure your first bet is $1,000</li>
         <li>on Fanduel, when bets made with site credit are won, you also receive the site credit as cash (if I win a $1,000 bet made on credit, with +100 odds, I receive $2,000 total)</li>
@@ -41,7 +41,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     </td>
   </tr>
   <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/CaesarsLogo.jpg" width="75" height="75"><br /><b>Caesars</b></td>
+    <td align = "Center"><img src="docs/assets/CaesarsLogo.jpg" width="85" height="85"><br /><b>Caesars</b></td>
     <td>$1,000 "Risk Free" Bet<br /><br />
       <font size="1"><i>Until Jan. 31st, 2022</i></font></td>
     <td align = "Left">
@@ -59,7 +59,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     </td>
   </tr>
   <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/PointsbetLogo.png" width="75" height="75"><br /><b>Pointsbet</b></td>
+    <td align = "Center"><img src="docs/assets/PointsbetLogo.png" width="85" height="85"><br /><b>Pointsbet</b></td>
     <td>$2,000 in "Risk Free" bets</td>
     <td align = "Left">Note - only available to customers in Colorado<br />
       <ol>
@@ -76,7 +76,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     </td>
   </tr>
   <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/DraftkingsLogo.png" width="75" height="75"><br /><b>Draftkings</b></td>
+    <td align = "Center"><img src="docs/assets/DraftkingsLogo.png" width="85" height="85"><br /><b>Draftkings</b></td>
     <td>20% Deposit Bonus up to $1,000<br /><br />
       <font size="1"><i>Until Feb. 27th, 2022</i></font></td>
     <td align = "Left">
