@@ -1,8 +1,7 @@
 ## How to make $$ from online sportsbooks!
 
-With online sports gambling becoming legal in so many states, there are a huge number of new online sportsbooks being created, and all of them are fighting for your business. Think back to the days when Uber and Lyft were competing by giving out free rides, or food delivery apps were giving out free meals.  The same thing is going on today with online sportsbooks, except rather than rides or food, **they are giving you cash!**  By simply taking advantage of these sportsbook promotions, **I have made over $7,000 in the past year**, and I will show you how to do the same, with limited to no risk and effort.
+With online sports gambling becoming legal in so many states, a huge number of online sportsbooks are being created, and all of them are fighting for your business. Think back to the days when Uber and Lyft were competing by giving out free rides, or food delivery apps were giving out free meals.  The same thing is going on today with online sportsbooks, except rather than rides or food, **they are giving you cash!**  By simply taking advantage of these sportsbook promotions, **I have made over $7,000 in the past year**, and I will show you how to do the same, with limited to no risk and effort.
 
-Additionally, there are so many sportsbooks to choose from, I will provide a quick overview of the pros and cons of some of my favorites in the section that follows
 
 
 ### Sign-Up Bonuses
