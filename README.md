@@ -15,6 +15,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     <col span = "1" style = "width: 10%">
     <col span = "1" style = "width: 35%">
     <col span = "1" style = "width: 35%", align = "Left">
+  </colgroup>
   <tr>
     <th>Sportsbook</th>
     <th>Summary</th>
