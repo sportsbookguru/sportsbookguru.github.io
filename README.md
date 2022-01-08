@@ -9,10 +9,10 @@ With online sports gambling becoming legal in so many states, a huge number of o
 The easiest way to make money quickly is by taking advantage of the new user promos that many books are offering.  Below I have detailed a list of my favorite sign-up bonuses and the best way to take advantage of them.
 
 <table width ="100%">
-  <col style="width:25%">
-  <col style="width:25%">
-  <col style="width:25%">
-  <col style="width:25%">
+  <col style="width:10%">
+  <col style="width:10%">
+  <col style="width:40%">
+  <col style="width:40%">
   <thead>
   <tr>
     <th>Sportsbook</th>
