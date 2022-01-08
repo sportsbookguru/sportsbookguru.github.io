@@ -43,7 +43,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/CaesarsLogo.jpg" width="100" height="100"><br /><b>Caesars</b></td>
     <td>$1,000 "Risk Free" Bet<br /><br />
-      <font size="7"><i>Until Jan. 31st, 2022</i></font></td>
+      <font size="1"><i>Until Jan. 31st, 2022</i></font></td>
     <td align = "Left">
       <ol>
         <li>Sign up for a new caesars sportsbook account using promo code CZR1</li>
