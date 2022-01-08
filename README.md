@@ -93,4 +93,5 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       </ol>
     </td>
   </tr>
+</table>
 
