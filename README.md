@@ -62,7 +62,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       <br /><a href="https://join.pointsbet.com/2riskfree/">$2,000 in "Risk Free" bets</a></td>
     <td align = "Left">Note - only available to customers in Colorado<br />
       <ol style = "padding-left:10px">
-        <li>Sign up for Pointsbet <a href="https://co.pointsbet.com/invite/1689871336"><u>here</u> using promo code WELCOME</li>
+        <li>Sign up for Pointsbet <a href="https://co.pointsbet.com/invite/1689871336"><u>here</u></a> using promo code WELCOME</li>
         <li>Place your first fixed odds bet up to $500, and receive a refund in free bets if your bet loses</li>
         <li>Place your funst PointsBetting wager and receive up to a $1,500 refund in free bets if you lose</li>
       </ol>
