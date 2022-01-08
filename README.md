@@ -22,11 +22,11 @@ The easiest way to make money quickly is by taking advantage of the new user pro
   <tbody>
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/FanduelLogo.png" width="85" height="85"><b>Fanduel</b><br />
-      <br />$1,000 "Risk Free" Bet<br />
+      <br /><a href="https://www.fanduel.com/sportsbook-search?utm_source=google&utm_medium=cpc&utm_campaign=brand&gclid=Cj0KCQiAieWOBhCYARIsANcOw0yAWOOQ4fHaEtIBemFs1lEer1ruFtqC0jItUMs7teTIWgj110yV_WgaAsegEALw_wcB">$1,000 "Risk Free" Bet</a><br />
       <font size="1"><i>Until Jan. 31st, 2022</i></font></td>
     <td align = "Left">
-      <ol style = "padding-left:1px">
-        <li>Sign up for Fanduel Sportsbook at the link provided</li>
+      <ol style = "padding-left:2px">
+        <li>Sign up for Fanduel Sportsbook at <a href="https://account.nj.sportsbook.fanduel.com/join#DRAF=Charles_1170624">this link</a></li>
         <li>Make your first deposit</li>
         <li>Place your first bet. If it loses, you will be refunded up to $1,000 in site credit (within 72 hours)</li>
       </ol>
@@ -43,7 +43,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       <br />$1,000 "Risk Free" Bet<br />
       <font size="1"><i>Until Jan. 31st, 2022</i></font></td>
     <td align = "Left">
-      <ol style = "padding-left:0px">
+      <ol style = "padding-left:2px">
         <li>Sign up for a new caesars sportsbook account using promo code CZR1</li>
         <li>Deposit funds and place your first wager up to $1,001. Note, odds must be -200 or higher</li>
         <li>Once your bet settles, you will receive a free bet of the same value whether you won or lost</li>
