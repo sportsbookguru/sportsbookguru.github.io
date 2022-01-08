@@ -19,14 +19,13 @@ The easiest way to make money quickly is by taking advantage of the new user pro
   <tr>
     <th>Sportsbook</th>
     <th>Summary</th>
-    <th>Offer Through</th>
     <th>Details</th>
     <th>Advice</th>
   </tr>
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/FanduelLogo.png" width="100" height="100"><b>Fanduel</b></td>
-    <td>$1,000 "Risk Free" Bet</td>
-    <td>Jan. 31st, 2022</td>
+    <td>$1,000 "Risk Free" Bet<br /><br />
+    <font size="1">Until Jan. 31st, 2022</font></td>
     <td align = "Left">
       <ol>
         <li>Sign up for Fanduel Sportsbook at the link provided</li>
@@ -43,8 +42,8 @@ The easiest way to make money quickly is by taking advantage of the new user pro
   </tr>
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/CaesarsLogo.jpg" width="100" height="100"><br /><b>Caesars</b></td>
-    <td>$1,000 "Risk Free" Bet</td>
-    <td>Jan. 31st, 2022</td>
+    <td>$1,000 "Risk Free" Bet<br /><br />
+    <font size="7">Until Jan. 31st, 2022</font></td>
     <td align = "Left">
       <ol>
         <li>Sign up for a new caesars sportsbook account using promo code CZR1</li>
@@ -62,7 +61,6 @@ The easiest way to make money quickly is by taking advantage of the new user pro
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/PointsbetLogo.png" width="100" height="100"><br /><b>Pointsbet</b></td>
     <td>$2,000 in "Risk Free" bets</td>
-    <td> </td>
     <td align = "Left">Note - only available to customers in Colorado<br />
       <ol>
         <li>Sign up for Pointsbet using promo code WELCOME</li>
@@ -79,8 +77,8 @@ The easiest way to make money quickly is by taking advantage of the new user pro
   </tr>
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/DraftkingsLogo.png" width="100" height="100"><br /><b>Draftkings</b></td>
-    <td>20% Deposit Bonus up to $1,000</td>
-    <td>Feb. 27th, 2022</td>
+    <td>20% Deposit Bonus up to $1,000<br /><br />
+    <font size="1">Until Feb. 27th, 2022</font></td>
     <td align = "Left">
       <ol>
         <li>Sign up for a new Draftkings Sportsbook account</li>
