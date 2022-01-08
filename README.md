@@ -6,7 +6,7 @@ With online sports gambling becoming legal in so many states, a huge number of o
 
 ### Sign-Up Bonuses
 
-The easiest way to make money quickly is by taking advantage of the new user promos that many books are offering.  Below I have detailed a list of my favorite sign-up bonuses and the best way to take advantage of them. See ["How To Guarantee Winnings From Risk Free Bets"](#how-to-guarantee-winnings-from-risk-free-bets) section that follows for more details on how to use these sign-up bonuses for **guaranteed cash**.
+The easiest way to make money quickly is by taking advantage of the new user promos that many books are offering.  Below I have detailed a list of my favorite sign-up bonuses and the best way to take advantage of them. See [How To Guarantee Winnings From Risk Free Bets](#how-to-guarantee-winnings-from-risk-free-bets) section that follows for more details on how to use these sign-up bonuses for **guaranteed cash**.
 
 <table width ="100%">
   <col style="width:20%">
