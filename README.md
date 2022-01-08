@@ -23,7 +23,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
   </thead>
   <tbody>
   <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/FanduelLogo.png" width="100" height="100"><b>Fanduel</b></td>
+    <td align = "Center"><img src="docs/assets/FanduelLogo.png" width="75" height="75"><b>Fanduel</b></td>
     <td>$1,000 "Risk Free" Bet<br /><br />
       <font size="1"><i>Until Jan. 31st, 2022</i></font></td>
     <td align = "Left" padding="1px">
@@ -41,7 +41,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     </td>
   </tr>
   <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/CaesarsLogo.jpg" width="100" height="100"><br /><b>Caesars</b></td>
+    <td align = "Center"><img src="docs/assets/CaesarsLogo.jpg" width="75" height="75"><br /><b>Caesars</b></td>
     <td>$1,000 "Risk Free" Bet<br /><br />
       <font size="1"><i>Until Jan. 31st, 2022</i></font></td>
     <td align = "Left">
@@ -59,7 +59,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     </td>
   </tr>
   <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/PointsbetLogo.png" width="100" height="100"><br /><b>Pointsbet</b></td>
+    <td align = "Center"><img src="docs/assets/PointsbetLogo.png" width="75" height="75"><br /><b>Pointsbet</b></td>
     <td>$2,000 in "Risk Free" bets</td>
     <td align = "Left">Note - only available to customers in Colorado<br />
       <ol>
@@ -76,7 +76,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     </td>
   </tr>
   <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/DraftkingsLogo.png" width="100" height="100"><br /><b>Draftkings</b></td>
+    <td align = "Center"><img src="docs/assets/DraftkingsLogo.png" width="75" height="75"><br /><b>Draftkings</b></td>
     <td>20% Deposit Bonus up to $1,000<br /><br />
       <font size="1"><i>Until Feb. 27th, 2022</i></font></td>
     <td align = "Left">
