@@ -34,7 +34,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       </ol>
     </td>
     <td align = "Left">
-      <ul>
+      <ul style = "padding-left:0">
         <li>Make sure your first bet is $1,000</li>
         <li>on Fanduel, when bets made with site credit are won, you also receive the site credit as cash (if I win a $1,000 bet made on credit, with +100 odds, I receive $2,000 total)</li>
       </ul>
@@ -45,14 +45,14 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     <td>$1,000 "Risk Free" Bet<br /><br />
       <font size="1"><i>Until Jan. 31st, 2022</i></font></td>
     <td align = "Left">
-      <ol>
+      <ol style = "padding-left:0px">
         <li>Sign up for a new caesars sportsbook account using promo code CZR1</li>
         <li>Deposit funds and place your first wager up to $1,001. Note, odds must be -200 or higher</li>
         <li>Once your bet settles, you will receive a free bet of the same value whether you won or lost</li>
       </ol>
     </td>
     <td align = "Left">
-      <ul>
+      <ul padding-left="0px">
         <li>Keep in mind that with Caesars, "free bet" credits do not get credited back into your account if you win, as with fanduel.  if you win a $1,000 free bet from Caesars at +100 odds, the cash into your account will be the $1,000 winnings, rather than the $1,000 stake + $1,000 winnings</li>
         <li>That being said, this is still a great intro offer because you receive the credit regardless of whether your bet wins or loses</li>
       </ul>
