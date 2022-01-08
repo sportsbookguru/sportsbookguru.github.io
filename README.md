@@ -61,7 +61,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/PointsbetLogo.png" width="85" height="85"><br /><b>Pointsbet</b><br />
       <br /><a href="https://join.pointsbet.com/2riskfree/">$2,000 in "Risk Free" bets</a></td>
-    <td align = "Left"><i>Only available in Colorado</i><br />
+    <td align = "Left">
       <ol style = "padding-left:10px">
         <li>Sign up for Pointsbet <a href="https://co.pointsbet.com/invite/1689871336"><u>here</u></a> using promo code WELCOME</li>
         <li>Place your first fixed odds bet up to $500, and receive a refund in free bets if your bet loses</li>
@@ -115,4 +115,20 @@ There are ways to guarantee that you will net a positive return with the sign-up
 7. If you win, you will now have $1,910 + $910 = $2,820 and your friend will have $0. Split the total so you each receive $1,410.
 8. If you lose, you will now have $910 and your friend will have $1,910, for a total of $2,820.  Split the total so you each receive $1,410.
 9. After accounting for the $1,000 initially deposited, you each net $410 absolutely guaranteed
+
+#### Strategy 1: For books that award "Free Bet" stake when "Free Bets" are won
+**$1,000 Risk Free Bet = $410**<br />
+**Applies to:** Fanduel Sportsbook, Barstool Sportsbook
+
+
+1. Find a buddy
+2. Sign up using the instructions & links above and deposit funds to receive your risk free bet promo
+3. Find an event that has a half point spread (e.g. -5.5 and +5.5) and even odds on both sides of the line (usually -110 on each side is the best you will see)
+  1. The half point spread ensures there is no possibility of a tie
+4. You & your buddy each bet on opposite sides of this line (e.g. you bet Home team to cover -5.5 and your friend bets Away team to cover +5.5, both at -110 odds). This way, you guarantee one of you will win and one of you will lose
+  1. At -110, a $1,000 bet will net you $910, so if you win you will have $1,910 and your friend will have a $1,000 free bet credit
+4. Repeat steps 3 & 4 for the same amount
+  1. If you win, you will now have $1,910 + $910 = $2,820 and your friend will have $0. Split the total so you each receive $1,410.
+  2. If you lose, you will now have $910 and your friend will have $1,910, for a total of $2,820.  Split the total so you each receive $1,410.
+  3. After accounting for the $1,000 initially deposited, you each net $410 absolutely guaranteed
 
