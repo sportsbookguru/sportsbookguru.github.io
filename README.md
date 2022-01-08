@@ -27,34 +27,72 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     <td align = "Center"><img src="docs/assets/FanduelLogo.png" width="100" height="100"><b>Fanduel</b></td>
     <td>$1,000 "Risk Free" Bet</td>
     <td>Jan. 31st, 2022</td>
-    <td>
+    <td align = "Left">
       <ol>
         <li>Sign up for Fanduel Sportsbook at the link provided</li>
         <li>Make your first deposit</li>
         <li>Place your first bet. If it loses, you will be refunded up to $1,000 in site credit (within 72 hours)</li>
       </ol>
     </td>
-    <td>-Make sure your first bet is $1,000<br /> -on Fanduel, when bets made with site credit are won, you also receive the site credit as cash (if I win a $1,000 bet made on credit, with +100 odds, I receive $2,000 total)</td>
+    <td align = "Left">
+      <ul>
+        <li>Make sure your first bet is $1,000</li>
+        <li>on Fanduel, when bets made with site credit are won, you also receive the site credit as cash (if I win a $1,000 bet made on credit, with +100 odds, I receive $2,000 total)</li>
+      </ul>
+    </td>
   </tr>
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/CaesarsLogo.jpg" width="100" height="100"><br /><b>Caesars</b></td>
     <td>$1,000 "Risk Free" Bet</td>
     <td>Jan. 31st, 2022</td>
-    <td>1. Sign up for a new caesars sportsbook account using promo code CZR1<br />2. Deposit funds and place your first wager up to $1,001. Note, odds must be -200 or higher<br />3. once your bet settles, you will receive a free bet of the same value whether you won or lost</td>
-    <td>-Keep in mind that with Caesars, "free bet" credits do not get credited back into your account if you win, as with fanduel.  if you win a $1,000 free bet from Caesars at +100 odds, the cash into your account will be the $1,000 winnings, rather than the $1,000 stake + $1,000 winnings<br />-That being said, this is still a great intro offer because you receive the credit regardless of whether your bet wins or loses</td>
+    <td align = "Left">
+      <ol>
+        <li>Sign up for a new caesars sportsbook account using promo code CZR1</li>
+        <li>Deposit funds and place your first wager up to $1,001. Note, odds must be -200 or higher</li>
+        <li>Once your bet settles, you will receive a free bet of the same value whether you won or lost</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul>
+        <li>Keep in mind that with Caesars, "free bet" credits do not get credited back into your account if you win, as with fanduel.  if you win a $1,000 free bet from Caesars at +100 odds, the cash into your account will be the $1,000 winnings, rather than the $1,000 stake + $1,000 winnings</li>
+        <li>That being said, this is still a great intro offer because you receive the credit regardless of whether your bet wins or loses</li>
+      </ul>
+    </td>
   </tr>
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/PointsbetLogo.png" width="100" height="100"><br /><b>Pointsbet</b></td>
     <td>$2,000 in "Risk Free" bets</td>
     <td> </td>
-    <td>Note - only available to customers in Colorado<br />1. Sign up for Pointsbet using promo code WELCOME<br />2. Place your first fixed odds bet up to $500, and receive a refund in free bets if your bet loses<br />3. Place your funst PointsBetting wager and receive up to a $1,500 refund in free bets if you lose</td>
-    <td>-The free bet credit up to $500 on the fixed odds bet is straightforward and similar to the promos with Fanduel and Caesars. definitely should take advantage of this<br />-PointsBetting wagers are unique to pointsbet. with PointsBetting, if you win your bet by 2 points, you win 2*(your bet amount); if you lose your bet by 2 points, you lose 2*(your bet amount).  Because of this, do not bet the full $1,500 becuase if you lose by more than 1 point, you will not be refunded by your full loss amount</td>
+    <td align = "Left">Note - only available to customers in Colorado<br />
+      <ol>
+        <li>Sign up for Pointsbet using promo code WELCOME</li>
+        <li>Place your first fixed odds bet up to $500, and receive a refund in free bets if your bet loses</li>
+        <li>Place your funst PointsBetting wager and receive up to a $1,500 refund in free bets if you lose</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul>
+        <li>The free bet credit up to $500 on the fixed odds bet is straightforward and similar to the promos with Fanduel and Caesars. definitely should take advantage of this</li>
+        <li>PointsBetting wagers are unique to pointsbet. with PointsBetting, if you win your bet by 2 points, you win 2*(your bet amount); if you lose your bet by 2 points, you lose 2*(your bet amount).  Because of this, do not bet the full $1,500 becuase if you lose by more than 1 point, you will not be refunded by your full loss amount</li>
+      </ul>
+    </td>
   </tr>
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/DraftkingsLogo.png" width="100" height="100"><br /><b>Draftkings</b></td>
     <td>20% Deposit Bonus up to $1,000</td>
     <td>Feb. 27th, 2022</td>
-    <td>1. Sign up for a new Draftkings Sportsbook account<br />2. Make your first deposit, and Draftkings will match 20% of the amount in bonus funds, up to $1,000<br />3. $1 in bonus funds will be released for every $25 bet through</td>
-    <td>-This bonus seems attractive at first, but to claim the full $1,000 you actually need to bet through $25,000<br />-Note play-through requirement ($25k) must be met within 90 days</td>
+    <td align = "Left">
+      <ol>
+        <li>Sign up for a new Draftkings Sportsbook account</li>
+        <li>Make your first deposit, and Draftkings will match 20% of the amount in bonus funds, up to $1,000</li>
+        <li>$1 in bonus funds will be released for every $25 bet through</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ol>
+        <li>This bonus seems attractive at first, but to claim the full $1,000 you actually need to bet through $25,000</li>
+        <li>Note play-through requirement ($25k) must be met within 90 days</li>
+      </ol>
+    </td>
   </tr>
 
