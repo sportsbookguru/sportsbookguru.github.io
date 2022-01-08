@@ -51,6 +51,4 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     <td>1. Sign up for a new Draftkings Sportsbook account<br />2. Make your first deposit, and Draftkings will match 20% of the amount in bonus funds, up to $1,000<br />3. $1 in bonus funds will be released for every $25 bet through</td>
     <td>-This bonus seems attractive at first, but to claim the full $1,000 you actually need to bet through $25,000<br />-Note play-through requirement ($25k) must be met within 90 days</td>
   </tr>
-</table>
-  
-Here is some text
+
