@@ -8,13 +8,20 @@ With online sports gambling becoming legal in so many states, a huge number of o
 
 The easiest way to make money quickly is by taking advantage of the new user promos that many books are offering.  Below I have detailed a list of my favorite sign-up bonuses and the best way to take advantage of them.
 
-<table style = "width:100%">
+<table width ="100%">
+  <col style="width:25%">
+  <col style="width:25%">
+  <col style="width:25%">
+  <col style="width:25%">
+  <thead>
   <tr>
     <th>Sportsbook</th>
     <th>Summary</th>
     <th>Details</th>
     <th>Advice</th>
   </tr>
+  </thead>
+  <tbody>
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/FanduelLogo.png" width="100" height="100"><b>Fanduel</b></td>
     <td>$1,000 "Risk Free" Bet<br /><br />
@@ -86,5 +93,6 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       </ol>
     </td>
   </tr>
+  </tbody>
 </table>
 
