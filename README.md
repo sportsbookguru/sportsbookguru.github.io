@@ -69,7 +69,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     </td>
     <td align = "Left">
       <ul style = "padding-left:10px">
-        <li>Use <a href="https://co.pointsbet.com/invite/1689871336"><u>this link</u> to receive an extra $100</li>
+        <li>Use <a href="https://co.pointsbet.com/invite/1689871336"><u>this link</u></a> to receive an extra $100</li>
         <li>The free bet credit up to $500 on the fixed odds bet is straightforward and similar to the promos with Fanduel and Caesars. definitely should take advantage of this</li>
         <li>PointsBetting wagers are unique to pointsbet. with PointsBetting, if you win your bet by 2 points, you win 2*(your bet amount); if you lose your bet by 2 points, you lose 2*(your bet amount).  Because of this, do not bet the full $1,500 becuase if you lose by more than 1 point, you will not be refunded by your full loss amount</li>
       </ul>
