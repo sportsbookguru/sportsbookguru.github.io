@@ -8,7 +8,7 @@ With online sports gambling becoming legal in so many states, a huge number of o
 
 The easiest way to make money quickly is by taking advantage of the new user promos that many books are offering.  Below I have detailed a list of my favorite sign-up bonuses and the best way to take advantage of them.
 
-<table width ="100%" cellpadding="100px" cellspacing="10px">
+<table width ="100%">
   <col style="width:10%">
   <col style="width:10%">
   <col style="width:40%">
@@ -27,7 +27,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     <td>$1,000 "Risk Free" Bet<br /><br />
       <font size="1"><i>Until Jan. 31st, 2022</i></font></td>
     <td align = "Left">
-      <ol>
+      <ol padding-left="0">
         <li>Sign up for Fanduel Sportsbook at the link provided</li>
         <li>Make your first deposit</li>
         <li>Place your first bet. If it loses, you will be refunded up to $1,000 in site credit (within 72 hours)</li>
