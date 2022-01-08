@@ -52,3 +52,5 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     <td>-This bonus seems attractive at first, but to claim the full $1,000 you actually need to bet through $25,000<br />-Note play-through requirement ($25k) must be met within 90 days</td>
   </tr>
 </table>
+  
+Here is some text
