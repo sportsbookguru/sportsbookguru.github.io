@@ -153,7 +153,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     <td align = "Left">
       <ol style = "padding-left:10px">
         <li>Sign up for Fanduel Sportsbook at <a href="https://account.nj.sportsbook.fanduel.com/join#DRAF=Charles_1170624"><u>this link</u></a></li>
-        <li>Make your first deposit</li>
+        <li>Make your first deposit of $1,000</li>
         <li>If your first bet loses, you will be refunded up to $1,000 in site credit</li>
       </ol>
     </td>
@@ -161,7 +161,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       <ul style = "padding-left:10px">
         <li>Use <a href="https://account.nj.sportsbook.fanduel.com/join#DRAF=Charles_1170624"><u>this link</u>,</a> for an extra $50 credit</li>
         <li>Make sure your first bet is $1,000</li>
-        <li>On Fanduel, when site credit bets are won, you receive the staked site credit as well (a $1,000 bet made on credit with +100 odds returns $2,000 total). Use strategy #1 mentioned in above section</li>
+        <li>On Fanduel, when site credit bets are won, you receive the staked site credit as well (a $1,000 bet made on credit with +100 odds returns $2,000 total). Use strategy #1 mentioned in above section (<b>$410 guaranteed</b>)</li>
       </ul>
     </td>
   </tr>
@@ -180,7 +180,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     <td align = "Left">
       <ul style = "padding-left:10px">
         <li>Make sure your first bet is $1,000</li>
-        <li>On Barstool, when site credit bets are won, you receive the staked site credit as well. Use strategy #1 mentioned in above section</li>
+        <li>On Barstool, when site credit bets are won, you receive the staked site credit as well. Use strategy #1 mentioned in above section (<b>$410 guaranteed</b>)</li>
       </ul>
     </td>
   </tr>    
@@ -200,7 +200,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       <ul style = "padding-left:10px">
         <li>Use <a href="https://www.caesars.com/sportsbook-and-casino/referral?AR=CO9524121332&pid=czrs&utm_source=czrs&utm_medium=creferral&c=creferral&utm_campaign=CO9524121332"><u>this link</u></a> for an extra $100 free bet</li>
         <li>On Caesars, when "free bets" are won, you receive the winnings, but not the staked "free bet" (a $1,000 free bet with +100 odds returns $1,000 total)</li>
-        <li>Beccause you will both receive a free bet (win or lose), use strategy #1 in section above, each using your free bet for bet #2</li>
+        <li>Beccause you will both receive a free bet (win or lose), use strategy #1 in section above, each using your free bet for bet #2(<b>$410 guaranteed</b>)</li>
         <li>This is still a great intro offer because you receive the credit regardless of whether your bet wins or loses</li>
       </ul>
     </td>
@@ -221,7 +221,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     <td align = "Left">
       <ul style = "padding-left:10px">
         <li>Use <a href="https://www.co.betmgm.com/en/mobileportal/invitefriendssignup?invID=195652"><u>this link</u></a> for an extra $50 free bet</li>
-        <li>On BetMGM, when "free bets" are won, you receive the winnings, but not the staked "free bet". Use straetgy #2 in above section</li>
+        <li>On BetMGM, when "free bets" are won, you receive the winnings, but not the staked "free bet". Use straetgy #2 in above section (<b>$170 guaranteed</b>)</li>
         <li>Note a $1,000 bet will be credited with 5 $200 bets, so use strategy #2 in section above, but adjust bet#2 values for $200 and repeat 5 times</li>
       </ul>
     </td>
@@ -240,8 +240,8 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     <td align = "Left">
       <ul style = "padding-left:10px">
         <li>Use <a href="https://co.pointsbet.com/invite/1689871336"><u>this link</u></a> to receive an extra $100</li>
-        <li>Similar to Caesars, the $500 fixed odds free bet credit does not credit back the free bet stake. Use strategy #2 in above section, adjusting numbers for $500 vs. $1,000</li>
-        <li>With PointsBetting, if you win your bet by 2 points, you win 2*(bet amount); if you lose by 2 points, you lose 2*(bet amount). There is some risk here. Do not bet the full $1,500 becuase if you lose by more than 1 point, you will not be refunded the full loss</li>
+        <li>Similar to Caesars, the $500 fixed odds free bet credit does not credit back the free bet stake. Use strategy #2 in above section, adjusting numbers for $500 vs. $1,000(<b>$85 guaranteed</b>)</li>
+        <li>With PointsBetting, if you win your bet by 2 points, you win 2*(bet amount); if you lose by 2 points, you lose 2*(bet amount). There is some risk here. Do not bet the full $1,500 becuase if you lose by more than 1 point, you will not be refunded the full loss.Follow strategy #2 with a smaller stake amount (depending on your appetite for risk)</li>
       </ul>
     </td>
   </tr>
@@ -259,7 +259,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     </td>
     <td align = "Left">
       <ul style = "padding-left:10px">
-        <li>Follow strategy #3 in section above to maximize guaranteed winnigs</li>
+        <li>Follow strategy #3 in section above to maximize guaranteed winnigs (<b>$190 guaranteed</b>)</li>
         <li>Free bets staked are not credited back as cash, only the winnings</li>
         <li>Free bets expire in 14 days</li>
       </ul>
@@ -278,7 +278,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     </td>
     <td align = "Left">
       <ul style = "padding-left:10px">
-        <li>Free bet tokens do not get awarded back into your account. Find a buddy and bet opposite sides of 6 bets with -110 odds to guarantee $140 each</li>
+        <li>Free bet tokens do not get awarded back into your account. Find a buddy and bet opposite sides of 6 bets with -110 odds to <b>guarantee $140</b> each</li>
         <li>Free bet tokens expire in 14 days</li>
       </ul>
     </td>
