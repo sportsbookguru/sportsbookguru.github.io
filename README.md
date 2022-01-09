@@ -26,18 +26,35 @@ Generally, <i>positive</i> odds means you will win more than your stake, and <i>
 <img src="docs/assets/OddsTable.JPG">
 
 
-  
-  
-
 
 #### Straight Bets
-A straight bet is any bet based on the outcome of an event.  This is the most common type of bets that people make - an example of this would be picking one team to win a certain match.  The image below shows the three main types of straight bets that can be made: spread, moneyline, or total (over/under).  This is very similar to what the interface will look like on any sportsbook.
-<img src="docs/assets/StraightBet.png">
+A straight bet is a bet on the outcome of a single event, such as who will win a match.  This is the most common type of bet that people make.  The image below shows the three main types of straight bets that can be made: spread, moneyline, or total (over/under).  This is very similar to what the interface will look like on any sportsbook, with each team being a row, and the spread, moneyline, and total score (over/under) being their own columns
+<img src="docs/assets/StraightBet.PNG">
 
 ##### Spread Bets
-Betting the spread of a match means you are betting on how many points a team would win or lose by.  In the above example, in the spread column, the plack text (-3 and +3) tells you the <i>spread</i>.  This means that if you picked the Packers to beat the spread, they would have to win <i>by more than</i> 3 points in order for you to cover (win) your bet.  Conversely, if you bet on the Lions to cover the spread, as long as the Lions win or lose by fewer than 3 points, you would win your bet.
+Betting the spread of a match means you are betting on how many points a team would win or lose by.  In the above example, in the spread column, the black text (-3.5 and +3.5) tells you the <i>spread</i>.  This means that if you picked the Packers to beat the spread, they would have to win <i>by more than</i> 3.5 points in order for you to cover (win) your bet.  Conversely, if you bet on the Lions to cover the spread, as long as the Lions win outright, or lose by fewer than 3.5 points, you would win your bet.<br />
 
+In this example, the spread includes a half-point so there could be no tie. If the spread were, for example -3 and +3, and the Packers won by exactly 3 points, then this would be a tie or <i>push</i>. When there is a push, your stake would be returned to you, but there are no winnings..
 
+You'll notice the odds on this spread are -110 when betting on either team to cover. This is usually the case with spread bets, as the spread is meant to make either team <i>covering</i> more or less equally likely.
+
+##### Moneyline Bets
+A moneyline bet means you are picking a team to win outright.  Again in the above example, you can pick the Packers to win outright or the Lions to win outright.  Notice in this bet that the odds are singificantly different than in the spread bet.  This makes sense, as we see that the Packers are favored by 3 points (based on the spread). Therefore, picking the Packers to win outright is less risky than picking the Lions to win outright and so the potential payout of winning a moneyline bet on the Lions is higher (+154 vs. -184).
+
+#### Total (Over/Under) Bets
+Over/Under bets are different from spread or moneyline bets in that rather than picking a particular team to win or cover the spread, you are betting on the total score of the match. The black text in the above example tells you the line on the total score, and you can bet whether the total will be higher or lower than that. In this example we see the total line is set at 44.5.  The top row lets you choose the over (indicated by the "o 44.5"), and the bottom row lets you chooose the under (indicated by the "u 44.5").  Notice again that similar to the spread bet, we see odds of -110 if you pick the over or if you pick the under. This is again because the total line is supposed to be set so that hitting the over or under are (generally) equally likely.
+
+#### Prop Bets
+Prop bets are different from straight bets in that they allow you to bet on specific events occurring within a match. Prop bets are generally structured the same as either moneyline bets or over/unders. Some examples of prop bets are called out below for now. We will get into prop bets in much more detail in future sections.
+<ul>
+  <li>Player Prop:  Bet on a player to record over/under 5 catches</li>
+  <li>Player Prop: Bet on whether or not a player will score</li>
+  <li>Game Prop: Bet on the longest passing touchdown to be over/under a certain number of yards</li>
+  <li>etc.</li>
+</ul>
+
+#### Parlays
+A parlay is just a bet that combines 2 or more bets of any of the above types. If you place a 2-bet parlay, you are betting you will win Bet #1 AND Bet #2. If either of these bets loses in a parlay, you lose the entire bet. Beacuase of this, typically parlay's have higher payouts than if you were to just make each bet independently.
 
 
 ### How To Guarantee Winnings From Risk Free Bets
