@@ -21,10 +21,8 @@ Odds are usually presented as either
   <li>how much you would have to bet to win $100. This is any odds that are shown with a "-"</li> 
 </ul>
 
-Generally, positive odds means you will win more than your stake if your bet wins, and negative odds means you will win less than your stake if your bet wins. +100 means your winnings will be equal to your stake.
-Therefore, if you have odds of +150, this means that a $100 bet will net you $150 of winnings ($250 total returned to you).
-Conversely, if you have odds of -150, this means that a $100 bet will net you $100 * $100/$150 = $66 ($166 total returned to you).  Said another way, you would need to bet $150 to win $100.
-The table below gives the net winnings off of a $100 bet at various odds:
+Generally, <i>positive</i> odds means you will win more than your stake, and <i>negative</i> odds means you will win less than your stake if your bet wins. +100 means your winnings will be equal to your stake.<br />
+<i>The table below gives the net winnings off of a $100 bet at various odds:</i><br />
 <img src="docs/assets/OddsTable.JPG">
 
 
