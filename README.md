@@ -5,7 +5,7 @@ With online sports gambling becoming legal in so many states, a huge number of o
 ### Sections
 [Sports Betting 101](#sports-betting-101) <br />
 [How To Guarantee Winnings From Risk Free Bets](#how-to-guarantee-winnings-from-risk-free-bets) <br />
-[Sign-Up Bonuses](#sign-up-bonuses)
+[Sign-Up Bonuses: ~$2,000 in guaranteed cash](#sign-up-bonuses)
 [Sportsbook Reviews and Rankings](#sportsbook-reviews-and-rankings)
 
 
@@ -132,7 +132,7 @@ Strategy is basically the same as strategy #2 above, just with different bet amo
 
 ### Sign-Up Bonuses
 
-The easiest way to make money quickly is by taking advantage of the new user promos that many books are offering.  Below I have detailed a list of my favorite sign-up bonuses and the best way to take advantage of them. See [How To Guarantee Winnings From Risk Free Bets](#how-to-guarantee-winnings-from-risk-free-bets) section above for more details on how to use these sign-up bonuses for **guaranteed cash**.
+The easiest way to make money quickly is by taking advantage of the new user promos that many books are offering.  Below I have detailed a list of my favorite sign-up bonuses and the best way to take advantage of them. See [How To Guarantee Winnings From Risk Free Bets](#how-to-guarantee-winnings-from-risk-free-bets) section above for more details on how to use these sign-up bonuses for **~$2,000 guaranteed cash**.
 
 <i>Note - encourage you to check the terms & conditions on the book's website for yourself in case they change since the time of writing of this page</i>
 
