@@ -14,7 +14,7 @@ For those new to sports betting, it can be a bit intimidating, but once you lear
 #### Understanding Odds
 Odds tell you how much potential winnings you can make on a particular bet, so when considering whether or not to place a bet, the odds are an important factor.  
 The blue text in the image below are the odds associated with different types of bets. 
-<img src="docs/assets/StraightBet.png">
+<img src="docs/assets/StraightBet.jpg">
 Odds are usually presented as either 
 <ul>
   <li>how many dollars you would win off of a $100 bet.  This is any odds that are shown with a "+"</li>
@@ -24,6 +24,8 @@ Odds are usually presented as either
 Generally, positive odds means you will win more than your stake if your bet wins, and negative odds means you will win less than your stake if your bet wins. +100 means your winnings will be equal to your stake.
 Therefore, if you have odds of +150, this means that a $100 bet will net you $150 of winnings ($250 total returned to you).
 Conversely, if you have odds of -150, this means that a $100 bet will net you $100 * $100/$150 = $66 ($166 total returned to you).  Said another way, you would need to bet $150 to win $100.
+The table below gives the net winnings off of a $100 bet at various odds:
+<img src="docs/assets/OddsTable.jpg">
 
 
   
