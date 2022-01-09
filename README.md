@@ -14,7 +14,7 @@ For those new to sports betting, it can be a bit intimidating, but once you lear
 #### Understanding Odds
 Odds tell you how much potential winnings you can make on a particular bet, so when considering whether or not to place a bet, the odds are an important factor.  
 The blue text in the image below are the odds associated with different types of bets. 
-<img src="docs/assets/StraightBet.JPG">
+<img src="docs/assets/StraightBet.PNG">
 Odds are usually presented as either 
 <ul>
   <li>how many dollars you would win off of a $100 bet.  This is any odds that are shown with a "+"</li>
