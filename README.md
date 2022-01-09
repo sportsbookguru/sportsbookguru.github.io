@@ -167,7 +167,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
   </tr>
     
   <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/BarstoolLogo.PNG" width="85" height="85"><b>Barstool</b><br />
+    <td align = "Center"><img src="docs/assets/BarstoolLogo.png" width="85" height="85"><b>Barstool</b><br />
       <br /><a href="https://www.barstoolsportsbook.com/promotions/new-player-bonus">$1,000 "Risk Free" Bet</a><br />
       <font size="1"><i>Until Dec. 31st, 2022</i></font></td>
     <td align = "Left">
@@ -208,7 +208,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     
 
   <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/BetMGMLogo.PNG" width="85" height="85"><br /><b>BetMGM</b><br />
+    <td align = "Center"><img src="docs/assets/BetMGMLogo.png" width="85" height="85"><br /><b>BetMGM</b><br />
       <br /><a href="https://promo.co.betmgm.com/en/promo/sports/risk-free?pid=SearchSportsBrand&af_sub1=7060935&wm=7060935&tdpeh=TMI&utm_source=PPC&utm_medium=Sports&utm_campaign=TMI_BetMGM_CO_Brand+Core_BMM&gclid=CjwKCAiArOqOBhBmEiwAsgeLmRkaOwem6UbMtNdoup_yJa_c9c8jOPCo0uDzssItT_aoykrUXsJTnxoCvhkQAvD_BwE&gclsrc=aw.ds">$1,000 "Risk Free" Bet</a><br />
       <font size="1"><i>Until Dec. 31st, 2022</i></font></td>
     <td align = "Left">
@@ -247,7 +247,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
   </tr>
     
   <tr valign = "Middle"> 
-    <td align = "Center"><img src="docs/assets/BetMaverickLogo.png" width="85" height="85"><br /><b>Maverick Sports</b><br />
+    <td align = "Center"><img src="docs/assets/BetMaverickLogo.png" width="100" height="85"><br /><b>Maverick Sports</b><br />
       <br /><a href="https://www.playmavericksports.com/info/promotions">$300 Deposit Match + $300 Risk-Free Bet</a><br />
       <font size="1"><i>Until Mar. 31st, 2022</i></font></td>
     <td align = "Left">
@@ -267,7 +267,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
   </tr>    
     
   <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/SISportsbookLogo.png" width="85" height="85"><br /><b>SI Sportsbook</b><br />
+    <td align = "Center"><img src="docs/assets/SISportsbookLogo.png" width="100" height="85"><br /><b>SI Sportsbook</b><br />
       <br /><a href="https://www.sisportsbook.com/promotions/">$300 in free bets</a></td>
     <td align = "Left">
       <ol style = "padding-left:10px">
