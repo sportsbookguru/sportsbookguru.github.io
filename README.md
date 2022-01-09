@@ -9,9 +9,35 @@ With online sports gambling becoming legal in so many states, a huge number of o
 
 
 ### Sports Betting 101
-For those new to sports betting, it can be a bit intimidating, but once you learn a few basics, it is actually quite simple. There are a few different kinds of bets that you can make, which are explained below
+For those new to sports betting, it can be a bit intimidating, but once you learn a few basics, it is actually quite simple. The section will first help you understand odds, or the risk/reward associated with a bet. Then we will cover a few of the more common types of bets.
+
+#### Understanding Odds
+Odds tell you how much potential winnings you can make on a particular bet, so when considering whether or not to place a bet, the odds are an important factor.  
+The blue text in the image below are the odds associated with different types of bets. 
+<img src="docs/assets/StraightBet.png">
+Odds are usually presented as either 
+<ul>
+  <li>how many dollars you would win off of a $100 bet.  This is any odds that are shown with a "+"</li>
+  <li>how much you would have to bet to win $100. This is any odds that are shown with a "-"</li> 
+</ul>
+
+Generally, positive odds means you will win more than your stake if your bet wins, and negative odds means you will win less than your stake if your bet wins. +100 means your winnings will be equal to your stake.
+Therefore, if you have odds of +150, this means that a $100 bet will net you $150 of winnings ($250 total returned to you).
+Conversely, if you have odds of -150, this means that a $100 bet will net you $100 * $100/$150 = $66 ($166 total returned to you).  Said another way, you would need to bet $150 to win $100.
+
+
+  
+  
+
+
 #### Straight Bets
-A straight bet is any bet based on the outcome of an event.  This is the most common type of bets that people make - an example of this would be picking one team to win a certain match.  
+A straight bet is any bet based on the outcome of an event.  This is the most common type of bets that people make - an example of this would be picking one team to win a certain match.  The image below shows the three main types of straight bets that can be made: spread, moneyline, or total (over/under).  This is very similar to what the interface will look like on any sportsbook.
+<img src="docs/assets/StraightBet.png">
+
+##### Spread Bets
+Betting the spread of a match means you are betting on how many points a team would win or lose by.  In the above example, in the spread column, the plack text (-3 and +3) tells you the <i>spread</i>.  This means that if you picked the Packers to beat the spread, they would have to win <i>by more than</i> 3 points in order for you to cover (win) your bet.  Conversely, if you bet on the Lions to cover the spread, as long as the Lions win or lose by fewer than 3 points, you would win your bet.
+
+
 
 
 ### How To Guarantee Winnings From Risk Free Bets
