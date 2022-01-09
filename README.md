@@ -134,6 +134,8 @@ Strategy is basically the same as strategy #2 above, just with different bet amo
 
 The easiest way to make money quickly is by taking advantage of the new user promos that many books are offering.  Below I have detailed a list of my favorite sign-up bonuses and the best way to take advantage of them. See [How To Guarantee Winnings From Risk Free Bets](#how-to-guarantee-winnings-from-risk-free-bets) section above for more details on how to use these sign-up bonuses for **guaranteed cash**.
 
+<i>Note - encourage you to check the terms & conditions on the book's website for yourself in case they change since the time of writing of this page</i>
+
 <table width ="100%">
   <col style="width:20%">
   <col style="width:40%">
@@ -205,7 +207,6 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       </ul>
     </td>
   </tr>
-    
 
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/BetMGMLogo.png" width="85" height="85"><br /><b>BetMGM</b><br />
@@ -213,16 +214,16 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       <font size="1"><i>Until Dec. 31st, 2022</i></font></td>
     <td align = "Left">
       <ol style = "padding-left:10px">
-        <li>Sign up for a new BetMGM account <a href="https://www.co.betmgm.com/en/mobileportal/invitefriendssignup?invID=195652"><u>here</u></a></li>
+        <li>Sign up for a new BetMGM account <a href="https://www.co.betmgm.com/en/mobileportal/register?productId=BETTING"><u>here</u></a></li>
         <li>Deposit funds and place your first wager up to $1,000</li>
         <li>If you lose your bet, you will receive free bets of the same value up to $,1000</li>
       </ol>
     </td>
     <td align = "Left">
       <ul style = "padding-left:10px">
-        <li>Use <a href="https://www.co.betmgm.com/en/mobileportal/invitefriendssignup?invID=195652"><u>this link</u></a> for an extra $50 free bet</li>
         <li>On BetMGM, when "free bets" are won, you receive the winnings, but not the staked "free bet". Use straetgy #2 in above section (<b>$170 guaranteed</b>)</li>
         <li>Note a $1,000 bet will be credited with 5 $200 bets, so use strategy #2 in section above, but adjust bet#2 values for $200 and repeat 5 times</li>
+        <li>If you do not want the $1,000 risk free bet (not recommended), you can sign-up via <a href="https://www.co.betmgm.com/en/mobileportal/invitefriendssignup?invID=195652"><u>this link</u></a> for a $50 free bet</li>
       </ul>
     </td>
   </tr>    
@@ -232,16 +233,16 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       <br /><a href="https://join.pointsbet.com/2riskfree/">$2,000 in "Risk Free" bets</a></td>
     <td align = "Left">
       <ol style = "padding-left:10px">
-        <li>Sign up for Pointsbet <a href="https://co.pointsbet.com/invite/1689871336"><u>here</u></a> using promo code WELCOME</li>
+        <li>Sign up for Pointsbet <a href="https://co.pointsbet.com/signup"><u>here</u></a> using promo code WELCOME</li>
         <li>Place your first fixed odds bet up to $500, and receive a refund in free bets if your bet loses</li>
         <li>Place your funst PointsBetting wager and receive up to a $1,500 refund in free bets if you lose</li>
       </ol>
     </td>
     <td align = "Left">
       <ul style = "padding-left:10px">
-        <li>Use <a href="https://co.pointsbet.com/invite/1689871336"><u>this link</u></a> to receive an extra $100</li>
         <li>Similar to Caesars, the $500 fixed odds free bet credit does not credit back the free bet stake. Use strategy #2 in above section, adjusting numbers for $500 vs. $1,000(<b>$85 guaranteed</b>)</li>
         <li>With PointsBetting, if you win your bet by 2 points, you win 2*(bet amount); if you lose by 2 points, you lose 2*(bet amount). There is some risk here. Do not bet the full $1,500 becuase if you lose by more than 1 point, you will not be refunded the full loss.Follow strategy #2 with a smaller stake amount (depending on your appetite for risk)</li>
+        <li>If you do not want to use this promo, you can also sign up using <a href="https://co.pointsbet.com/invite/1689871336"><u>this link</u></a> to receive a $100 free bet. Note cannot use the risk-free bet promo in this scenario.</li>
       </ul>
     </td>
   </tr>
