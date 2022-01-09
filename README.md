@@ -41,8 +41,10 @@ You'll notice the odds on this spread are -110 when betting on either team to co
 ##### Moneyline Bets
 A moneyline bet means you are picking a team to win outright.  Again in the above example, you can pick the Packers to win outright or the Lions to win outright.  Notice in this bet that the odds are singificantly different than in the spread bet.  This makes sense, as we see that the Packers are favored by 3 points (based on the spread). Therefore, picking the Packers to win outright is less risky than picking the Lions to win outright and so the potential payout of winning a moneyline bet on the Lions is higher (+154 vs. -184).
 
-#### Total (Over/Under) Bets
-Over/Under bets are different from spread or moneyline bets in that rather than picking a particular team to win or cover the spread, you are betting on the total score of the match. The black text in the above example tells you the line on the total score, and you can bet whether the total will be higher or lower than that. In this example we see the total line is set at 44.5.  The top row lets you choose the over (indicated by the "o 44.5"), and the bottom row lets you chooose the under (indicated by the "u 44.5").  Notice again that similar to the spread bet, we see odds of -110 if you pick the over or if you pick the under. This is again because the total line is supposed to be set so that hitting the over or under are (generally) equally likely.
+##### Total (Over/Under) Bets
+Over/Under bets are different from spread or moneyline bets in that rather than picking a particular team to win or cover the spread, you are betting on the total score of the match. The black text in the above example tells you the line on the total score, and you can bet whether the total will be higher or lower than that. In this example we see the total line is set at 44.5.  The top row lets you choose the over (indicated by the "o 44.5"), and the bottom row lets you chooose the under (indicated by the "u 44.5").
+
+Notice again that similar to the spread bet, we see odds of -110 if you pick the over or if you pick the under. This is again because the total line is supposed to be set so that hitting the over or under are (generally) equally likely.
 
 #### Prop Bets
 Prop bets are different from straight bets in that they allow you to bet on specific events occurring within a match. Prop bets are generally structured the same as either moneyline bets or over/unders. Some examples of prop bets are called out below for now. We will get into prop bets in much more detail in future sections.
@@ -58,15 +60,15 @@ A parlay is just a bet that combines 2 or more bets of any of the above types. I
 
 
 ### How To Guarantee Winnings From Risk Free Bets
-There are ways to guarantee that you will net a positive return with the sign-up bonuses highlighted above.  Below are the details on how to do so.
+There are ways to guarantee that you will net a positive return with the sign-up bonuses highlighted below.  here are the details on how to do so.
 
 #### Strategy 1: For books that award "Free Bet" stake when "Free Bets" are won
-**$1,000 Risk Free Bet = $410**
+**$1,000 Risk Free Bet = $410**<br />
 **Applies to:** Fanduel Sportsbook, Barstool Sportsbook
 
 <ol>
   <li>Find a buddy</li>
-  <li>Sign up using the instructions & links above and deposit funds to receive your risk free bet promo</li>
+  <li>Sign up using the instructions & links provided in the section below and deposit funds to receive your risk free bet promo</li>
   <li>Find an event that has a half point spread (e.g. -5.5 and +5.5) and even odds on both sides of the line (usually -110 on each side is the best you will see)</li>
   <ol>
     <li><i>The half point spread ensures there is no possibility of a tie</i></li>
