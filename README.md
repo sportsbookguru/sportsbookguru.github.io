@@ -91,7 +91,7 @@ Refer to the below table for each pososible scenario and outcome if the above st
 
 #### Strategy 2: For books that do not award "Free Bet" stake when "Free Bets" are won
 **$1,000 Risk Free Bet = $170 guaranteed**<br />
-**Applies to:** Caesars, Twinspires, Pointsbet
+**Applies to:** Caesars, Twinspires, Pointsbet, BetMGM
 
 <ol>
   <li>Find a buddy</li>
@@ -153,10 +153,29 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       <ul style = "padding-left:10px">
         <li>Use <a href="https://account.nj.sportsbook.fanduel.com/join#DRAF=Charles_1170624"><u>this link</u>,</a> for an extra $50 credit</li>
         <li>Make sure your first bet is $1,000</li>
-        <li>On Fanduel, when site credit bets are won, you receive the staked site credit as well (a $1,000 bet made on credit with +100 odds returns $2,000 total)</li>
+        <li>On Fanduel, when site credit bets are won, you receive the staked site credit as well (a $1,000 bet made on credit with +100 odds returns $2,000 total). Use strategy #1 mentioned in above section</li>
       </ul>
     </td>
   </tr>
+    
+  <tr valign = "Middle">
+    <td align = "Center"><img src="docs/assets/BarstoolLogo.PNG" width="85" height="85"><b>Barstool</b><br />
+      <br /><a href="https://www.barstoolsportsbook.com/promotions/new-player-bonus">$1,000 "Risk Free" Bet</a><br />
+      <font size="1"><i>Until Dec. 31st, 2022</i></font></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for Barstool Sportsbook at <a href="https://www.barstoolsportsbook.com/"><u>this link</u></a></li>
+        <li>Make your first deposit up to $1,000</li>
+        <li>If your first bet loses, you will be refunded up to $1,000 in site credit</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>Make sure your first bet is $1,000</li>
+        <li>On Barstool, when site credit bets are won, you receive the staked site credit as well. Use strategy #1 mentioned in above section</li>
+      </ul>
+    </td>
+  </tr>    
     
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/CaesarsLogo.jpg" width="85" height="85"><br /><b>Caesars</b><br />
@@ -173,10 +192,32 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       <ul style = "padding-left:10px">
         <li>Use <a href="https://www.caesars.com/sportsbook-and-casino/referral?AR=CO9524121332&pid=czrs&utm_source=czrs&utm_medium=creferral&c=creferral&utm_campaign=CO9524121332"><u>this link</u></a> for an extra $100 free bet</li>
         <li>On Caesars, when "free bets" are won, you receive the winnings, but not the staked "free bet" (a $1,000 free bet with +100 odds returns $1,000 total)</li>
+        <li>Beccause you will both receive a free bet (win or lose), use strategy #1 in section above, each using your free bet for bet #2</li>
         <li>This is still a great intro offer because you receive the credit regardless of whether your bet wins or loses</li>
       </ul>
     </td>
   </tr>
+    
+
+  <tr valign = "Middle">
+    <td align = "Center"><img src="docs/assets/BetMGMLogo.JPG" width="85" height="85"><br /><b>BetMGM</b><br />
+      <br /><a href="https://promo.co.betmgm.com/en/promo/sports/risk-free?pid=SearchSportsBrand&af_sub1=7060935&wm=7060935&tdpeh=TMI&utm_source=PPC&utm_medium=Sports&utm_campaign=TMI_BetMGM_CO_Brand+Core_BMM&gclid=CjwKCAiArOqOBhBmEiwAsgeLmRkaOwem6UbMtNdoup_yJa_c9c8jOPCo0uDzssItT_aoykrUXsJTnxoCvhkQAvD_BwE&gclsrc=aw.ds">$1,000 "Risk Free" Bet</a><br />
+      <font size="1"><i>Until Dec. 31st, 2022</i></font></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for a new BetMGM account <a href="https://www.co.betmgm.com/en/mobileportal/invitefriendssignup?invID=195652"><u>here</u></a></li>
+        <li>Deposit funds and place your first wager up to $1,000</li>
+        <li>If you lose your bet, you will receive free bets of the same value up to $,1000</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>Use <a href="https://www.co.betmgm.com/en/mobileportal/invitefriendssignup?invID=195652"><u>this link</u></a> for an extra $50 free bet</li>
+        <li>On BetMGM, when "free bets" are won, you receive the winnings, but not the staked "free bet". Use straetgy #2 in above section</li>
+        <li>Note a $1,000 bet will be credited with 5 $200 bets, so use strategy #2 in section above, but adjust bet#2 values for $200 and repeat 5 times</li>
+      </ul>
+    </td>
+  </tr>    
     
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/PointsbetLogo.png" width="85" height="85"><br /><b>Pointsbet</b><br />
@@ -191,7 +232,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     <td align = "Left">
       <ul style = "padding-left:10px">
         <li>Use <a href="https://co.pointsbet.com/invite/1689871336"><u>this link</u></a> to receive an extra $100</li>
-        <li>Similar to Caesars, the $500 fixed odds free bet credit does not credit back the free bet stake.</li>
+        <li>Similar to Caesars, the $500 fixed odds free bet credit does not credit back the free bet stake. Use strategy #2 in above section, adjusting numbers for $500 vs. $1,000</li>
         <li>With PointsBetting, if you win your bet by 2 points, you win 2*(bet amount); if you lose by 2 points, you lose 2*(bet amount). There is some risk here. Do not bet the full $1,500 becuase if you lose by more than 1 point, you will not be refunded the full loss</li>
       </ul>
     </td>
