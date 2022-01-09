@@ -248,7 +248,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
   </tr>
     
   <tr valign = "Middle"> 
-    <td align = "Center"><img src="docs/assets/BetMaverickLogo.png" width="100" height="85"><br /><b>Maverick Sports</b><br />
+    <td align = "Center"><img src="docs/assets/BetMaverickLogo2.png" width="85" height="85"><br /><b>Maverick Sports</b><br />
       <br /><a href="https://www.playmavericksports.com/info/promotions">$300 Deposit Match + $300 Risk-Free Bet</a><br />
       <font size="1"><i>Until Mar. 31st, 2022</i></font></td>
     <td align = "Left">
@@ -268,7 +268,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
   </tr>    
     
   <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/SISportsbookLogo.png" width="100" height="85"><br /><b>SI Sportsbook</b><br />
+    <td align = "Center"><img src="docs/assets/SISportsbookLogo.png" width="110" height="85"><br /><b>SI Sportsbook</b><br />
       <br /><a href="https://www.sisportsbook.com/promotions/">$300 in free bets</a></td>
     <td align = "Left">
       <ol style = "padding-left:10px">
