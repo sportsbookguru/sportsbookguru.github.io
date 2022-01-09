@@ -121,6 +121,14 @@ Refer to the below table for each pososible scenario and outcome if the above st
 <img src="docs/assets/S2Table.JPG">
 
 
+#### Strategy 3: Specific for Mavercik Sports (Deposit match + free bet promo)
+**$300 deposit match + $300 risk-free bet = $185 guaranteed**<br />
+**Applies to:** Maverick Sports
+Strategy is basically the same as strategy #2 above, just with different bet amounts for bet #1 and Bet #2. Refer to the table below<br />
+<img src="docs/assets/BetMaverickTable.JPG">
+
+
+
 
 ### Sign-Up Bonuses
 
@@ -200,7 +208,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     
 
   <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/BetMGMLogo.JPG" width="85" height="85"><br /><b>BetMGM</b><br />
+    <td align = "Center"><img src="docs/assets/BetMGMLogo.PNG" width="85" height="85"><br /><b>BetMGM</b><br />
       <br /><a href="https://promo.co.betmgm.com/en/promo/sports/risk-free?pid=SearchSportsBrand&af_sub1=7060935&wm=7060935&tdpeh=TMI&utm_source=PPC&utm_medium=Sports&utm_campaign=TMI_BetMGM_CO_Brand+Core_BMM&gclid=CjwKCAiArOqOBhBmEiwAsgeLmRkaOwem6UbMtNdoup_yJa_c9c8jOPCo0uDzssItT_aoykrUXsJTnxoCvhkQAvD_BwE&gclsrc=aw.ds">$1,000 "Risk Free" Bet</a><br />
       <font size="1"><i>Until Dec. 31st, 2022</i></font></td>
     <td align = "Left">
@@ -237,6 +245,44 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       </ul>
     </td>
   </tr>
+    
+  <tr valign = "Middle"> 
+    <td align = "Center"><img src="docs/assets/BetMaverickLogo.png" width="85" height="85"><br /><b>Maverick Sports</b><br />
+      <br /><a href="https://www.playmavericksports.com/info/promotions">$300 Deposit Match + $300 Risk-Free Bet</a><br />
+      <font size="1"><i>Until Mar. 31st, 2022</i></font></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for Maverick Sports <a href="https://www.playmavericksports.com/account/joinUs"><u>here</u></a> and make your first deposit of $300</li>
+        <li>$300 bonus voucher will be credited in 24 hours</li>
+        <li>First bet will also be credited back if lost, up to $300</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>Follow strategy #3 in section above to maximize guaranteed winnigs</li>
+        <li>Free bets staked are not credited back as cash, only the winnings</li>
+        <li>Free bets expire in 14 days</li>
+      </ul>
+    </td>
+  </tr>    
+    
+  <tr valign = "Middle">
+    <td align = "Center"><img src="docs/assets/SISportsbookLogo.png" width="85" height="85"><br /><b>SI Sportsbook</b><br />
+      <br /><a href="https://www.sisportsbook.com/promotions/">$300 in free bets</a></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for SI Sportsbook <a href="https://www.sisportsbook.com/"><u>here</u></a> and make your first deposit using promo code SI300</li>
+        <li>Within 7 days, place a bet of $10 or more with odds of -200 or higher</li>
+        <li>receive 6 $50 free bet tokens</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>Free bet tokens do not get awarded back into your account. Find a buddy and bet opposite sides of 6 bets with -110 odds to guarantee $140 each</li>
+        <li>Free bet tokens expire in 14 days</li>
+      </ul>
+    </td>
+  </tr>    
     
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/DraftkingsLogo.png" width="85" height="85"><br /><b>Draftkings</b><br />
