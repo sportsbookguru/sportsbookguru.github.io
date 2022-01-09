@@ -6,6 +6,7 @@ With online sports gambling becoming legal in so many states, a huge number of o
 [Sports Betting 101](#sports-betting-101) <br />
 [How To Guarantee Winnings From Risk Free Bets](#how-to-guarantee-winnings-from-risk-free-bets) <br />
 [Sign-Up Bonuses](#sign-up-bonuses)
+[Sportsbook Reviews and Rankings](#sportsbook-reviews-and-rankings)
 
 
 ### Sports Betting 101
@@ -63,7 +64,7 @@ A parlay is just a bet that combines 2 or more bets of any of the above types. I
 There are ways to guarantee that you will net a positive return with the sign-up bonuses highlighted below.  here are the details on how to do so.
 
 #### Strategy 1: For books that award "Free Bet" stake when "Free Bets" are won
-**$1,000 Risk Free Bet = $410**<br />
+**$1,000 Risk Free Bet = $410 guaranteed**<br />
 **Applies to:** Fanduel Sportsbook, Barstool Sportsbook
 
 <ol>
@@ -83,15 +84,18 @@ There are ways to guarantee that you will net a positive return with the sign-up
     <li>If you lose, you will now have $910 and your friend will have $1,910, for a total of $2,820.  Split the total so you each receive $1,410.</li>
     <li>After accounting for the $1,000 initially deposited, you each net $410 absolutely guaranteed</li>
   </ol>
-</ol>
+</ol> 
+
+Refer to the below table for each pososible scenario and outcome if the above steps are followed
+<img src="docs/assets/S1Table.JPG">
 
 #### Strategy 2: For books that do not award "Free Bet" stake when "Free Bets" are won
-**$1,000 Risk Free Bet = $170**<br />
+**$1,000 Risk Free Bet = $170 guaranteed**<br />
 **Applies to:** Caesars, Twinspires, Pointsbet
 
 <ol>
   <li>Find a buddy</li>
-  <li>Sign up using the instructions & links above and deposit funds to receive your risk free bet promo</li>
+  <li>Sign up using the instructions & links in the section below and deposit funds to receive your risk free bet promo</li>
   <li>Find an event that has a half point spread (e.g. -5.5 and +5.5) and even odds on both sides of the line (usually -110 on each side is the best you will see)</li>
   <ol>
     <li><i>The half point spread ensures there is no possibility of a tie</i></li>
@@ -113,10 +117,14 @@ There are ways to guarantee that you will net a positive return with the sign-up
 </ol>
 
 
+Refer to the below table for each pososible scenario and outcome if the above steps are followed
+<img src="docs/assets/S2Table.JPG">
+
+
 
 ### Sign-Up Bonuses
 
-The easiest way to make money quickly is by taking advantage of the new user promos that many books are offering.  Below I have detailed a list of my favorite sign-up bonuses and the best way to take advantage of them. See [How To Guarantee Winnings From Risk Free Bets](#how-to-guarantee-winnings-from-risk-free-bets) section that follows for more details on how to use these sign-up bonuses for **guaranteed cash**.
+The easiest way to make money quickly is by taking advantage of the new user promos that many books are offering.  Below I have detailed a list of my favorite sign-up bonuses and the best way to take advantage of them. See [How To Guarantee Winnings From Risk Free Bets](#how-to-guarantee-winnings-from-risk-free-bets) section above for more details on how to use these sign-up bonuses for **guaranteed cash**.
 
 <table width ="100%">
   <col style="width:20%">
@@ -149,6 +157,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       </ul>
     </td>
   </tr>
+    
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/CaesarsLogo.jpg" width="85" height="85"><br /><b>Caesars</b><br />
       <br /><a href="https://www.williamhill.com/us/co/bet/promos/bet-match-1001">$1,000 "Risk Free" Bet</a><br />
@@ -168,6 +177,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       </ul>
     </td>
   </tr>
+    
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/PointsbetLogo.png" width="85" height="85"><br /><b>Pointsbet</b><br />
       <br /><a href="https://join.pointsbet.com/2riskfree/">$2,000 in "Risk Free" bets</a></td>
@@ -186,6 +196,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       </ul>
     </td>
   </tr>
+    
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/DraftkingsLogo.png" width="85" height="85"><br /><b>Draftkings</b><br />
       <br /><a href="https://sportsbook.draftkings.com/1000-deposit-bonus?wpsrc=Organic%20Search&wpaffn=Google&wpkw=https%3A%2F%2Fsportsbook.draftkings.com%2F1000-deposit-bonus&wpcn=1000-deposit-bonus">20% Deposit Bonus up to $1,000</a><br />
@@ -209,4 +220,5 @@ The easiest way to make money quickly is by taking advantage of the new user pro
 </table>
 
 
+### Sportsbook Reviews and Rankings
 
