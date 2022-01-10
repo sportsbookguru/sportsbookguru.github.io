@@ -77,7 +77,7 @@ New user promos are offered by almost all sportsbooks as an incentive to sign up
 <ul>
   <li><b>Risk Free First Bet:</b> Probably the best new user promo if you know how to take advantage of it. Risk free first bets generally refund the first bet that you make with a sportsbook, up to a certain limit, if you lose. See [How to Guarantee Yourself Winnings From Risk Free Bets](#how-to-guarantee-yourself-winnings-from-risk-free-bets) section below for how best to use these promos</li>
   <li><b>Deposit Match Bonus:</b> Some books will match your first deposit up to a certain limit. Most books will have a certain playthrough requirement for bonus funds that are matched, so make sure to check to understand what that requirement is.  For example, a book could match your first $1,000 deposited, but require you to bet 3x through ($3,000) before being able to withdraw those bonus funds (your cash deposit however is always withdrawable)</li>
-  <li><b>Enhanced Odds Bonus:</b> Some books will offer enhanced odds for your first bet after signing up. Draftkings does this commonly. This could look like "Bet $5 to win $200". 
+  <li><b>Enhanced Odds Bonus:</b> Some books will offer enhanced odds for your first bet after signing up. Draftkings does this commonly. This could look like "Bet $5 to win $200". </li>
 </ul>
 
 In the [The Best New User Promos](#the-best-new-user-promos) section that follows, you can see a list of some of the best new user promos, and advice on the best way to capitalize on them. Make sure to reference the details in the [How to Guarantee Yourself Winnings From Risk Free Bets](#how-to-guarantee-yourself-winnings-from-risk-free-bets) for more detailed advice. <br />
