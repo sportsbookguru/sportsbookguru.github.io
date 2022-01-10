@@ -70,7 +70,7 @@ A parlay is just a bet that combines 2 or more bets of any of the above types. I
 
 
 ### Overview of Sportsbook Promos
-There are many different types of promos that sportsbooks offer. This section will give a quick intro to the different types of promos.  The sections that follow will detail specific promos offered by different sportsboooks, and how best to capitalize ono them.
+There are many different types of promos that sportsbooks offer. This section will give a quick intro to the different types of promos.  The sections that follow will detail specific promos offered by different sportsboooks, and how best to capitalize on them.
 
 #### New User Promos
 New user promos are offered by almost all sportsbooks as an incentive to sign up for their book & download the app. These are one-time promotions offered to users when they first sign up for a specific sportsbook, and usually take one of three forms:
