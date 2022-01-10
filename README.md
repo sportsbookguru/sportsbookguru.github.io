@@ -5,7 +5,7 @@ With online sports gambling becoming legal in so many states, a huge number of o
 ### Contents
 [Sports Betting 101](#sports-betting-101) <br />
 [Overview of Sportsbook Promos](#overview-of-sportsbook-promos)<br />
-[New User Promos: ~$2,000 in risk-free cash](#new-user-promos)<br />
+[The Best New User Promos: ~$2,000 in risk-free cash](#the-best-new-user-promos)<br />
 [How To Guarantee Yourself Winnings From Risk Free Bets](#how-to-guarantee-yourself-winnings-from-risk-free-bets) <br />
 [Sportsbook Reviews and Rankings](#sportsbook-reviews-and-rankings)
 
@@ -87,7 +87,8 @@ In addition to new user promos, most books offer a wide range of other promotion
 <ul>
   <li><b>Odds Boosts:</br> Most books offer odds boosts or enhanced odds on certain bets. This can take the form of an X% odds boost token that can be used on a bet of your choosing, or can be higher odds offered for a specific bet. This is very common on books such as Draftkings, BoxBet, Caesars, or BetRivers</li>
   <li><b>Parlay Insurance:</b> Many books will offer some form of parlay insurance, so if you make a parlay bet, and lose, you may be able to re-coup the staked amount in free bet credits if certain conditions are met. These condidtions will vary by book. These types of promos are common on books like Fanduel and BetMGM</li>
-  <li><b>Additional Winnings:</b> This is less common than the above two, but you will sometimes see offers where if you make a certain bet of at least $X, then you will recieve additional winnings based on a specifed prop bet. An example of this would be <i>Bet $100 on team A to cover the spread, and win $10 for every touchdown scored by that team</i>. These types of promotions are commonnly offered by Caesars.
+  <li><b>Additional Winnings:</b> This is less common than the above two, but you will sometimes see offers where if you make a certain bet of at least $X, then you will recieve additional winnings based on a specifed prop bet. An example of this would be <i>Bet $100 on team A to cover the spread, and win $10 for every touchdown scored by that team</i>. These types of promotions are commonnly offered by Caesars.</li>
+</ul>
 
 
 ### The Best New User Promos
