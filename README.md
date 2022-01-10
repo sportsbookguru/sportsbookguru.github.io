@@ -80,7 +80,7 @@ New user promos are offered by almost all sportsbooks as an incentive to sign up
   <li><b>Enhanced Odds Bonus:</b> Some books will offer enhanced odds for your first bet after signing up. Draftkings does this commonly. This could look like "Bet $5 to win $200". 
 </ul>
 
-In the [The Best New User Promos](#the-best-new-user-promos) section that follows, you can see a list of some of the best new user promos, and advice on the best way to capitalize on them. Make sure to reference the details in the [How to Guarantee Yourself Winnings From Risk Free Bets](#how-to-guarantee-yourself-winnings-from-risk-free-bets) for more detailed advice. 
+In the [The Best New User Promos](#the-best-new-user-promos) section that follows, you can see a list of some of the best new user promos, and advice on the best way to capitalize on them. Make sure to reference the details in the [How to Guarantee Yourself Winnings From Risk Free Bets](#how-to-guarantee-yourself-winnings-from-risk-free-bets) for more detailed advice. <br />
 
 #### Promos Regularly Available
 In addition to new user promos, most books offer a wide range of other promotions that can be taken advantage of to give yoursefl an edge when betting.  An overview of these types of promos is provided in this section, but refer to the [Sportsbook Reviews and Rankings](#sportsbook-reviews-and-rankings) section for details on the common types of promos offered at different books.
