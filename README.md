@@ -2,27 +2,36 @@
 
 With online sports gambling becoming legal in so many states, a huge number of online sportsbooks are being created, and all of them are fighting for your business. Think back to the days when Uber and Lyft were competing by giving out free rides, or food delivery apps were giving out free meals.  The same thing is going on today with online sportsbooks, except rather than rides or food, **they are giving you cash!**  By simply taking advantage of these sportsbook promotions, **I have made over $7,000 in the past year**, and I will show you how to do the same, with limited to no risk and effort.
 
-### Sections
+### Contents
 [Sports Betting 101](#sports-betting-101) <br />
-[How To Guarantee Winnings From Risk Free Bets](#how-to-guarantee-winnings-from-risk-free-bets) <br />
-[Sign-Up Bonuses: ~$2,000 in guaranteed cash](#sign-up-bonuses)
+[Overview of Sportsbook Promos](#overview-of-sportsbook-promos)<br />
+[New User Promos: ~$2,000 in risk-free cash](#new-user-promos)<br />
+[How To Guarantee Yourself Winnings From Risk Free Bets](#how-to-guarantee-yourself-winnings-from-risk-free-bets) <br />
 [Sportsbook Reviews and Rankings](#sportsbook-reviews-and-rankings)
 
 
 ### Sports Betting 101
-For those new to sports betting, it can be a bit intimidating, but once you learn a few basics, it is actually quite simple. The section will first help you understand odds, or the risk/reward associated with a bet. Then we will cover a few of the more common types of bets.
+For those new to sports betting, it can be a bit intimidating, but once you learn a few basics, it is actually quite simple. This section will first help you understand odds, or the risk/reward associated with a bet. Then we will cover a few of the more common types of bets.
 
 #### Understanding Odds
-Odds tell you how much potential winnings you can make on a particular bet, so when considering whether or not to place a bet, the odds are an important factor.  
-The blue text in the image below are the odds associated with different types of bets. 
-<img src="docs/assets/StraightBet.PNG">
+Most bets will not return the bet (stake) amount 1-to-1. Odds tell you how much potential winnings you can make on a particular bet, so when considering whether or not to place a bet, the odds are an important factor.   
 Odds are usually presented as either 
 <ul>
-  <li>how many dollars you would win off of a $100 bet.  This is any odds that are shown with a "+"</li>
-  <li>how much you would have to bet to win $100. This is any odds that are shown with a "-"</li> 
+  <li>how many dollars you would win off of a $100 bet.  This is any odds that are shown with a "+" (e.g. "+150")</li>
+  <li>how much you would have to bet to win $100. This is any odds that are shown with a "-" (e.g. "-110")</li> 
+</ul>
+Generally, <i>positive</i> odds (e.g. "+120") means you will win more than your stake, and <i>negative</i> odds (e.g. -120") means you will win less than your stake if your bet wins. +100 means your winnings will be equal to your stake.<br />
+
+The blue text in the image below are the odds associated with different types of bets. 
+<img src="docs/assets/StraightBet.PNG">
+In the above:
+<ul>
+  <li>-110 means that if you bet $110, you will win $100 (plus the $110 returned that you bet)</li>
+  <li>-184 means that if you bet $184, you will win $100 (plus the $184 returned that you bet)</li>
+  <li>+154 means that if you bet $100, you will win $154 (plus the $100 returned that you bet)</li>
 </ul>
 
-Generally, <i>positive</i> odds means you will win more than your stake, and <i>negative</i> odds means you will win less than your stake if your bet wins. +100 means your winnings will be equal to your stake.<br />
+
 <i>The table below gives the net winnings off of a $100 bet at various odds:</i><br />
 <img src="docs/assets/OddsTable.JPG">
 
@@ -33,11 +42,11 @@ A straight bet is a bet on the outcome of a single event, such as who will win a
 <img src="docs/assets/StraightBet.PNG">
 
 ##### Spread Bets
-Betting the spread of a match means you are betting on how many points a team would win or lose by.  In the above example, in the spread column, the black text (-3.5 and +3.5) tells you the <i>spread</i>.  This means that if you picked the Packers to beat the spread, they would have to win <i>by more than</i> 3.5 points in order for you to cover (win) your bet.  Conversely, if you bet on the Lions to cover the spread, as long as the Lions win outright, or lose by fewer than 3.5 points, you would win your bet.<br />
+Betting the spread of a match means you are betting on how many points a team would win or lose by.  In the above example, in the spread column, the black text (-3.5 and +3.5) tells you the <i>spread</i>.  This means that if you picked the Packers to beat the spread, they would have to win <i>by more than</i> 3.5 points in order for you to cover (win) your bet.  Conversely, if you bet on the Lions to cover the spread, as long as the Lions win outright, or lose by fewer than 3.5 points, you would win your bet.<br /> So if you were to make a $100 bet on the Packers to cover -3 at the -110 odds shown above, and the Packers won 21-14, then you would win your bet because the packers won by more than 3 points. This would return to you the $100 initially staked plus $100*100/110 = $91 in winnings.
 
-In this example, the spread includes a half-point so there could be no tie. If the spread were, for example -3 and +3, and the Packers won by exactly 3 points, then this would be a tie or <i>push</i>. When there is a push, your stake would be returned to you, but there are no winnings..
+In the example shown above, the spread includes a half-point so there could be no tie. If the spread were, for example -3 and +3, and the Packers won by exactly 3 points, then this would be a tie or <i>push</i>. When there is a push, your stake would be returned to you, but there are no winnings.
 
-You'll notice the odds on this spread are -110 when betting on either team to cover. This is usually the case with spread bets, as the spread is meant to make either team <i>covering</i> more or less equally likely.
+You'll notice the odds on this spread are -110 when betting on either team to cover. This is usually the case with spread bets, as the spread is meant to make either team <i>covering</i> more or less equally likely, and the Sportsbook usually sets the odds on either side so that they take a cut of each bet.
 
 ##### Moneyline Bets
 A moneyline bet means you are picking a team to win outright.  Again in the above example, you can pick the Packers to win outright or the Lions to win outright.  Notice in this bet that the odds are singificantly different than in the spread bet.  This makes sense, as we see that the Packers are favored by 3 points (based on the spread). Therefore, picking the Packers to win outright is less risky than picking the Lions to win outright and so the potential payout of winning a moneyline bet on the Lions is higher (+154 vs. -184).
@@ -60,77 +69,28 @@ Prop bets are different from straight bets in that they allow you to bet on spec
 A parlay is just a bet that combines 2 or more bets of any of the above types. If you place a 2-bet parlay, you are betting you will win Bet #1 AND Bet #2. If either of these bets loses in a parlay, you lose the entire bet. Beacuase of this, typically parlay's have higher payouts than if you were to just make each bet independently.
 
 
-### How To Guarantee Winnings From Risk Free Bets
-There are ways to guarantee that you will net a positive return with the sign-up bonuses highlighted below.  here are the details on how to do so.
+### Overview of Sportsbook Promos
+There are many different types of promos that sportsbooks offer. This section will give a quick intro to the different types of promos.  The sections that follow will detail specific promos offered by different sportsboooks, and how best to capitalize ono them.
 
-#### Strategy 1: For books that award "Free Bet" stake when "Free Bets" are won
-**$1,000 Risk Free Bet = $410 guaranteed**<br />
-**Applies to:** Fanduel Sportsbook, Barstool Sportsbook
+#### New User Promos
+New user promos are offered by almost all sportsbooks as an incentive to sign up for their book & download the app. These are one-time promotions offered to users when they first sign up for a specific sportsbook, and usually take one of three forms:
+<ul>
+  <li><b>Risk Free First Bet:</b> Probably the best new user promo if you know how to take advantage of it. Risk free first bets generally refund the first bet that you make with a sportsbook, up to a certain limit, if you lose. See [How to Guarantee Yourself Winnings From Risk Free Bets](#how-to-guarantee-yourself-winnings-from-risk-free-bets) section below for how best to use these promos</li>
+  <li><b>Deposit Match Bonus:</b> Some books will match your first deposit up to a certain limit. Most books will have a certain playthrough requirement for bonus funds that are matched, so make sure to check to understand what that requirement is.  For example, a book could match your first $1,000 deposited, but require you to bet 3x through ($3,000) before being able to withdraw those bonus funds (your cash deposit however is always withdrawable)</li>
+  <li><b>Enhanced Odds Bonus:</b> Some books will offer enhanced odds for your first bet after signing up. Draftkings does this commonly. This could look like "Bet $5 to win $200". 
+</ul>
 
-<ol>
-  <li>Find a buddy</li>
-  <li>Sign up using the instructions & links provided in the section below and deposit funds to receive your risk free bet promo</li>
-  <li>Find an event that has a half point spread (e.g. -5.5 and +5.5) and even odds on both sides of the line (usually -110 on each side is the best you will see)</li>
-  <ol>
-    <li><i>The half point spread ensures there is no possibility of a tie</i></li>
-  </ol>
-  <li>You & your buddy each bet on opposite sides of this line (e.g. you bet Home team to cover -5.5 and your friend bets Away team to cover +5.5, both at -110 odds). This way, you guarantee one of you will win and one of you will lose</li>
-  <ol>
-    <li><i>At -110, a $1,000 bet will net you $910, so if you win you will have $1,910 and your friend will have a $1,000 free bet credit</i></li>
-  </ol>
-  <li>Repeat steps 3 & 4 for the same amount</li>
-  <ol>
-    <li>If you win, you will now have $1,910 + $910 = $2,820 and your friend will have $0. Split the total so you each receive $1,410.</li>
-    <li>If you lose, you will now have $910 and your friend will have $1,910, for a total of $2,820.  Split the total so you each receive $1,410.</li>
-    <li>After accounting for the $1,000 initially deposited, you each net $410 absolutely guaranteed</li>
-  </ol>
-</ol> 
+In the [The Best New User Promos](#the-best-new-user-promos) section that follows, you can see a list of some of the best new user promos, and advice on the best way to capitalize on them. Make sure to reference the details in the [How to Guarantee Yourself Winnings From Risk Free Bets](#how-to-guarantee-yourself-winnings-from-risk-free-bets) for more detailed advice. 
 
-Refer to the below table for each pososible scenario and outcome if the above steps are followed
-<img src="docs/assets/S1Table.JPG">
-
-#### Strategy 2: For books that do not award "Free Bet" stake when "Free Bets" are won
-**$1,000 Risk Free Bet = $170 guaranteed**<br />
-**Applies to:** Caesars, Twinspires, Pointsbet, BetMGM
-
-<ol>
-  <li>Find a buddy</li>
-  <li>Sign up using the instructions & links in the section below and deposit funds to receive your risk free bet promo</li>
-  <li>Find an event that has a half point spread (e.g. -5.5 and +5.5) and even odds on both sides of the line (usually -110 on each side is the best you will see)</li>
-  <ol>
-    <li><i>The half point spread ensures there is no possibility of a tie</i></li>
-  </ol>
-  <li>You & your buddy each bet on opposite sides of this line (e.g. you bet Home team to cover -5.5 and your friend bets Away team to cover +5.5, both at -110 odds). This way, you guarantee one of you will win and one of you will lose</li>
-  <ol>
-    <li><i>At -110, a $1,000 bet will net you $910, so if you win you will have $1,910 and your friend will have a $1,000 free bet credit</i></li>
-  </ol>
-  <li>Repeat steps 3 & 4, however whoever won the first bet will need to alter the bet amount of the second bet</li>
-  <ol>
-    <li>If your friend has a $1,000 free bet credit, then the total <i>winnings</i> they could be awarded is only $910, as the free bet staked will not be awarded back as well</li>
-    <li>If you won the first bet, then the second bet placed should only be $475. <i>Assumes odds of -110 on each side. If odds are different, this bet amount will differ</i></li>
-    <ol>
-      <li>If you win, you will now have $1,910 + $431(your winnings) = $2,341 and your friend will have $0. Split the total so you each receive $1,170</li>
-      <li>If you lose, you will now have $1,910 - $475 = $1,435 and your friend will have $910 (since the $1,000 free bet is not credited back), for a total of $2,345.  Split the total so you each receive $1,172</li>
-    </ol>
-  </ol>
-  <li>After accounting for the $1,000 initially deposited, you each net ~$170 absolutely guaranteed</li>
-</ol>
+#### Promos Regularly Available
+In addition to new user promos, most books offer a wide range of other promotions that can be taken advantage of to give yoursefl an edge when betting.  An overview of these types of promos is provided in this section, but refer to the [Sportsbook Reviews and Rankings](#sportsbook-reviews-and-rankings) section for details on the common types of promos offered at different books.
+<ul>
+  <li><b>Odds Boosts:</br> Most books offer odds boosts or enhanced odds on certain bets. This can take the form of an X% odds boost token that can be used on a bet of your choosing, or can be higher odds offered for a specific bet. This is very common on books such as Draftkings, BoxBet, Caesars, or BetRivers</li>
+  <li><b>Parlay Insurance:</b> Many books will offer some form of parlay insurance, so if you make a parlay bet, and lose, you may be able to re-coup the staked amount in free bet credits if certain conditions are met. These condidtions will vary by book. These types of promos are common on books like Fanduel and BetMGM</li>
+  <li><b>Additional Winnings:</b> This is less common than the above two, but you will sometimes see offers where if you make a certain bet of at least $X, then you will recieve additional winnings based on a specifed prop bet. An example of this would be <i>Bet $100 on team A to cover the spread, and win $10 for every touchdown scored by that team</i>. These types of promotions are commonnly offered by Caesars.
 
 
-Refer to the below table for each pososible scenario and outcome if the above steps are followed
-<img src="docs/assets/S2Table.JPG">
-
-
-#### Strategy 3: Specific for Mavercik Sports (Deposit match + free bet promo)
-**$300 deposit match + $300 risk-free bet = $185 guaranteed**<br />
-**Applies to:** Maverick Sports
-Strategy is basically the same as strategy #2 above, just with different bet amounts for bet #1 and Bet #2. Refer to the table below<br />
-<img src="docs/assets/BetMaverickTable.JPG">
-
-
-
-
-### Sign-Up Bonuses
+### The Best New User Promos
 
 The easiest way to make money quickly is by taking advantage of the new user promos that many books are offering.  Below I have detailed a list of my favorite sign-up bonuses and the best way to take advantage of them. See [How To Guarantee Winnings From Risk Free Bets](#how-to-guarantee-winnings-from-risk-free-bets) section above for more details on how to use these sign-up bonuses for **~$2,000 guaranteed cash**.
 
@@ -306,6 +266,77 @@ The easiest way to make money quickly is by taking advantage of the new user pro
   </tr>
   </tbody>
 </table>
+
+### How To Guarantee Yourself Winnings From Risk Free Bets
+There are ways to guarantee yourself that you will net a positive return with the sign-up bonuses highlighted below.  here are the details on how to do so.
+
+#### Strategy 1: For books that award "Free Bet" stake when "Free Bets" are won
+**$1,000 Risk Free Bet = $410 guaranteed**<br />
+**Applies to:** Fanduel Sportsbook, Barstool Sportsbook
+
+<ol>
+  <li>Find a buddy</li>
+  <li>Sign up using the instructions & links provided in the section below and deposit funds to receive your risk free bet promo</li>
+  <li>Find an event that has a half point spread (e.g. -5.5 and +5.5) and even odds on both sides of the line (usually -110 on each side is the best you will see)</li>
+  <ol>
+    <li><i>The half point spread ensures there is no possibility of a tie</i></li>
+  </ol>
+  <li>You & your buddy each bet on opposite sides of this line (e.g. you bet Home team to cover -5.5 and your friend bets Away team to cover +5.5, both at -110 odds). This way, you guarantee one of you will win and one of you will lose</li>
+  <ol>
+    <li><i>At -110, a $1,000 bet will net you $910, so if you win you will have $1,910 and your friend will have a $1,000 free bet credit</i></li>
+  </ol>
+  <li>Repeat steps 3 & 4 for the same amount</li>
+  <ol>
+    <li>If you win, you will now have $1,910 + $910 = $2,820 and your friend will have $0. Split the total so you each receive $1,410.</li>
+    <li>If you lose, you will now have $910 and your friend will have $1,910, for a total of $2,820.  Split the total so you each receive $1,410.</li>
+    <li>After accounting for the $1,000 initially deposited, you each net $410 absolutely guaranteed</li>
+  </ol>
+</ol> 
+
+Refer to the below table for each pososible scenario and outcome if the above steps are followed
+<img src="docs/assets/S1Table.JPG">
+
+#### Strategy 2: For books that do not award "Free Bet" stake when "Free Bets" are won
+**$1,000 Risk Free Bet = $170 guaranteed**<br />
+**Applies to:** Caesars, Twinspires, Pointsbet, BetMGM
+
+<ol>
+  <li>Find a buddy</li>
+  <li>Sign up using the instructions & links in the section below and deposit funds to receive your risk free bet promo</li>
+  <li>Find an event that has a half point spread (e.g. -5.5 and +5.5) and even odds on both sides of the line (usually -110 on each side is the best you will see)</li>
+  <ol>
+    <li><i>The half point spread ensures there is no possibility of a tie</i></li>
+  </ol>
+  <li>You & your buddy each bet on opposite sides of this line (e.g. you bet Home team to cover -5.5 and your friend bets Away team to cover +5.5, both at -110 odds). This way, you guarantee one of you will win and one of you will lose</li>
+  <ol>
+    <li><i>At -110, a $1,000 bet will net you $910, so if you win you will have $1,910 and your friend will have a $1,000 free bet credit</i></li>
+  </ol>
+  <li>Repeat steps 3 & 4, however whoever won the first bet will need to alter the bet amount of the second bet</li>
+  <ol>
+    <li>If your friend has a $1,000 free bet credit, then the total <i>winnings</i> they could be awarded is only $910, as the free bet staked will not be awarded back as well</li>
+    <li>If you won the first bet, then the second bet placed should only be $475. <i>Assumes odds of -110 on each side. If odds are different, this bet amount will differ</i></li>
+    <ol>
+      <li>If you win, you will now have $1,910 + $431(your winnings) = $2,341 and your friend will have $0. Split the total so you each receive $1,170</li>
+      <li>If you lose, you will now have $1,910 - $475 = $1,435 and your friend will have $910 (since the $1,000 free bet is not credited back), for a total of $2,345.  Split the total so you each receive $1,172</li>
+    </ol>
+  </ol>
+  <li>After accounting for the $1,000 initially deposited, you each net ~$170 absolutely guaranteed</li>
+</ol>
+
+
+Refer to the below table for each pososible scenario and outcome if the above steps are followed
+<img src="docs/assets/S2Table.JPG">
+
+
+#### Strategy 3: Specific for Mavercik Sports (Deposit match + free bet promo)
+**$300 deposit match + $300 risk-free bet = $185 guaranteed**<br />
+**Applies to:** Maverick Sports
+Strategy is basically the same as strategy #2 above, just with different bet amounts for bet #1 and Bet #2. Refer to the table below<br />
+<img src="docs/assets/BetMaverickTable.JPG">
+
+
+
+
 
 
 ### Sportsbook Reviews and Rankings
