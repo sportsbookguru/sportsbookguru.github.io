@@ -95,6 +95,8 @@ In addition to new user promos, most books offer a wide range of other promotion
 
 The easiest way to make money quickly is by taking advantage of the new user promos that many books are offering.  Below I have detailed a list of my favorite sportsbooks that regularly offer promotions and sign-up bonuses. See [How To Guarantee Yourself Winnings From Risk Free Bets](#how-to-guarantee-yourself-winnings-from-risk-free-bets) section that follows for more details on how to use these sign-up bonuses to net yourself **~$2,000 in cash**.
 
+[test](#how-to-guarantee-yourself-winnings-from-risk-free-bets)
+
 <i>Note - you should to check the terms and conditions for these promos on the each sport book’s website for yourself before implementing any of these strategies, too ensure you have the most up-to-date information</i>
 
 <table width ="100%">
@@ -124,7 +126,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       <ul style = "padding-left:10px">
         <li>Use <a href="https://account.nj.sportsbook.fanduel.com/join#DRAF=Charles_1170624"><u>this link</u>,</a> for an extra $50 credit</li>
         <li>Make sure your first bet is $1,000</li>
-        <li>On Fanduel, when site credit bets are won, you receive the staked site credit as well (a $1,000 bet made on credit with +100 odds returns $2,000 total). Use strategy #1 mentioned in [next section](#how-to-guarantee-yourself-winnings-from-risk-free-bets) (<b>$410 guaranteed</b>)</li>
+        <li>On Fanduel, when site credit bets are won, you receive the staked site credit as well (a $1,000 bet made on credit with +100 odds returns $2,000 total). Use strategy #1 mentioned in [Next Section](#how-to-guarantee-yourself-winnings-from-risk-free-bets) (<b>$410 guaranteed</b>)</li>
       </ul>
     </td>
   </tr>
