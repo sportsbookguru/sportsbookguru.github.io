@@ -204,12 +204,188 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       <ul style = "padding-left:10px">
         <li>Make sure to apply your free bet in the betslip, before submitting your first bet.</li>
         <li> ensure all bets are made and will settle within 30 days of signing up or bonus funds will expire</li>
-        <li>Bonus funds have a 1x playthrough requirement, so free bets do get awarded back as cash. Use Strategy #1 adjusted for $750 in section below to <b> guarantee $307</b>.</li>
+        <li>Bonus funds have a 1x playthrough requirement, so free bets do get awarded back as cash. Use Strategy #1 adjusted for $750 in section below to <b>guarantee $307</b>.</li>
       </ul>
     </td>
   </tr>              
 
+            
+  <tr valign = "Middle">
+    <td align = "Center"><img src="docs/assets/BetRiversLogo.jpg" width="85" height="85"><br /><b>BetRivers</b><br />
+      <br /><a href="https://co.betrivers.com/?page=promotions&promotion=deposit-match">Deposit match up to $250</a></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for BetRivers <a href="https://co.betrivers.com/?page=signup"><u>here</u></a> and make your first deposit of $250 using code 250MATCH</li>
+        <li>BetRivers will match your deposit dollar for dollar up to $250</li>
+        <li>Deposit match funds only have 1x playthrough requirement, but do expire within 30 days</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>This is basically a $250 risk-free bet on a book that credits free bets back.</li>
+        <li>You will need to bet a total of $500 before withdrawing any funds to take full advantage</li>
+        <li>Find a friend and take opposite sides of a $500 bet with a half-point (e.g. -5.5) spread at -110 odds on each side to <b>guarantee $227</b> each</li>
+        <li>$227 net + $250 deposit back = ($500 total deposit + $500 total match - $500 lost betting + ($500*100/110 = $455 bet winnings)) / 2 (each bettor)</li>
+        <li>Free bet tokens expire in 30 days, be sure to take advantage of this</li>
+      </ul>
+    </td>
+  </tr>           
+  
+<tr valign = "Middle">
+    <td align = "Center"><img src="docs/assets/FoxBetLogo.jpeg" width="85" height="85"><br /><b>FoxBet</b><br />
+      <br /><a href="https://co.foxbet.com/#/promotions">$500 first bet risk-free</a><br />
+      <font size="1"><i>Until Dec. 31st, 2022</i></font></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for FoxBet <a href="https://co.foxbet.com/?source=RAF_NOSUHZ#/raf"><u>here</u></a> and make your first deposit of at least $500</li>
+        <li>Within 7 days, <b>opt in by navigating to the <a href="https://co.foxbet.com/#/promotions">promotions</a> tab, click on the "First Bet Risk Free on Us" promotion, and click on "View Challenge" from the pop-up</li>
+        <li>Place your first wager of $500 with minimum odds of -200, and if the bet loses, you will be refunded the bet amount up to $500 in site credit</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>Use <a href="https://co.foxbet.com/?source=RAF_NOSUHZ#/raf"><u>this link</u></a> to sign up for an extra $25 free bet</li>
+        <li>Free bet dollars get awarded back into your account, so use strategy #1 adjusted for $500 rather than $1,000 to <b>guarantee $205</b> each</li>
+        <li>Free bet tokens expire in 7 days</li>
+      </ul>
+    </td>
+  </tr>   
 
+  <tr valign = "Middle">
+    <td align = "Center"><img src="docs/assets/SuperbookLogo.jpg" width="85" height="85"><br /><b>SuperBook</b><br />
+      <br /><a href="https://co.superbook.com/info/promotions">Deposit match up to $500</a></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for Superbook <a href="https://co.superbook.com/sports"><u>here</u></a> and make your first deposit of $500</li>
+        <li>Superbook will match your deposit dollar for dollar up to $500 in bet credits</li>
+        <li>Bonus vouchers are applied to 50% of your bet, and expire in 14 days</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>Note bonus voucher value does not get credited back to your account as cash, only the winnings</li>
+        <li>Find a friend and take opposite sides of 4 $250 bets with a half-point (e.g. -5.5) spread at -110 odds on each side to <b>guarantee $205</b> each</li>
+        <li>$205 + $500 deposit back = ($1,000 total deposit - ($500 cash & $500 credits) lost betting + (($500 cash+$500 credit)*100/110 = $910 bet winnings)) / 2 (each bettor)</li>
+      </ul>
+    </td>
+  </tr>                
+        
+  <tr valign = "Middle"> 
+    <td align = "Center"><img src="docs/assets/BetMaverickLogo2.png" width="85" height="85"><br /><b>Maverick Sports</b><br />
+      <br /><a href="https://www.playmavericksports.com/info/promotions">$300 Deposit Match + $300 Risk-Free Bet</a><br />
+      <font size="1"><i>Until Mar. 31st, 2022</i></font></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for Maverick Sports <a href="https://www.playmavericksports.com/account/joinUs"><u>here</u></a> and make your first deposit of $300</li>
+        <li>$300 bonus voucher will be credited in 24 hours</li>
+        <li>First bet will also be credited back if lost, up to $300</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>Follow strategy #3 in section below to maximize guaranteed winnigs (<b>$190 guaranteed</b>)</li>
+        <li>Free bets staked are not credited back as cash, only the winnings</li>
+        <li>Free bets expire in 14 days</li>
+      </ul>
+    </td>
+  </tr>    
+
+  <tr valign = "Middle">
+    <td align = "Center"><img src="docs/assets/TwinspiresLogo.png" width="85" height="85"><br /><b>Twinspires Sportsbook</b><br />
+      <br /><a href="https://co.twinspires.com/promotions.inner.shtml?promo=risk-free-first-sports-bet-1000">Risk free bet up to $1,000</a><br />
+      <font size="1"><i>Until Feb. 13th, 2022</i></font></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for Twinspires <a href="https://co.twinspires.com/churchillRegistration.do?bonusCode=FREE1000"><u>here</u></a> using bonus code FREE1000 and make your first deposit of $1,000</li>
+        <li>Make your first bet of $1,000, ensuring the bet will settle within 7 days</li>
+        <li>If your bet loses, you will be refunded the staked amount, up to $1,000.</li>
+        <li>Redeem your free bet within 7 days or it will expire</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>Twinspires does not award bonus funds staked if free bets are won. Use strategy #2 in below section to <b>guarantee $173</b></li>
+      </ul>
+    </td>
+  </tr>              
+    
+  <tr valign = "Middle">
+    <td align = "Center"><img src="docs/assets/BetMGMLogo.png" width="85" height="85"><br /><b>BetMGM</b><br />
+      <br /><a href="https://promo.co.betmgm.com/en/promo/sports/risk-free?pid=SearchSportsBrand&af_sub1=7060935&wm=7060935&tdpeh=TMI&utm_source=PPC&utm_medium=Sports&utm_campaign=TMI_BetMGM_CO_Brand+Core_BMM&gclid=CjwKCAiArOqOBhBmEiwAsgeLmRkaOwem6UbMtNdoup_yJa_c9c8jOPCo0uDzssItT_aoykrUXsJTnxoCvhkQAvD_BwE&gclsrc=aw.ds">$1,000 "Risk Free" Bet</a><br />
+      <font size="1"><i>Until Dec. 31st, 2022</i></font></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for a new BetMGM account <a href="https://www.co.betmgm.com/en/mobileportal/register?productId=BETTING"><u>here</u></a></li>
+        <li>Deposit funds and place your first wager up to $1,000</li>
+        <li>If you lose your bet, you will receive free bets of the same value up to $,1000</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>On BetMGM, when "free bets" are won, you receive the winnings, but not the staked "free bet". Use straetgy #2 in section below (<b>$170 guaranteed</b>)</li>
+        <li>Note a $1,000 bet will be credited with 5 $200 bets, so use strategy #2 in section below, but adjust bet #2 values for $200 and repeat 5 times</li>
+        <li>If you do not want the $1,000 risk free bet (not recommended), you can sign-up via <a href="https://www.co.betmgm.com/en/mobileportal/invitefriendssignup?invID=195652"><u>this link</u></a> for a $50 free bet</li>
+      </ul>
+    </td>
+  </tr>    
+    
+  <tr valign = "Middle">
+    <td align = "Center"><img src="docs/assets/PointsbetLogo.png" width="85" height="85"><br /><b>Pointsbet</b><br />
+      <br /><a href="https://join.pointsbet.com/2riskfree/">$2,000 in "Risk Free" bets</a></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for Pointsbet <a href="https://co.pointsbet.com/signup"><u>here</u></a> using promo code WELCOME</li>
+        <li>Place your first fixed odds bet up to $500, and receive a refund in free bets if your bet loses</li>
+        <li>Additionally, place your funst PointsBetting wager and receive up to a $1,500 refund in free bets if you lose</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>Similar to Caesars, the $500 fixed odds free bet credit does not credit back the free bet stake. Use strategy #2 in section below, adjusting numbers for $500 vs. $1,000 (<b>$85 guaranteed</b>)</li>
+        <li>With PointsBetting, if you win your bet by 2 points, you win 2*(bet amount); if you lose by 2 points, you lose 2*(bet amount). There is some risk here. Do not bet the full $1,500 becuase if you lose by more than 1 point, you will not be refunded the full loss.Follow strategy #2 with a smaller stake amount (depending on your appetite for risk)</li>
+        <li>If you do not want to use this promo, you can also sign up using <a href="https://co.pointsbet.com/invite/1689871336"><u>this link</u></a> to receive a $100 free bet. Note cannot use the risk-free bet promo in this scenario.</li>
+      </ul>
+    </td>
+  </tr>
+    
+  <tr valign = "Middle">
+    <td align = "Center"><img src="docs/assets/SISportsbookLogo.png" width="110" height="85"><br /><b>SI Sportsbook</b><br />
+      <br /><a href="https://www.sisportsbook.com/promotions/">$300 in free bets</a></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for SI Sportsbook <a href="https://www.sisportsbook.com/"><u>here</u></a> and make your first deposit using promo code SI300</li>
+        <li>Within 7 days, place a bet of $10 or more with odds of -200 or higher</li>
+        <li>receive 6 $50 free bet tokens</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>Free bet tokens do not get awarded back into your account. Find a buddy and bet opposite sides of 6 bets with -110 odds to <b>guarantee $140</b> each</li>
+        <li>Free bet tokens expire in 14 days</li>
+      </ul>
+    </td>
+  </tr>     
+        
+  <tr valign = "Middle">
+    <td align = "Center"><img src="docs/assets/DraftkingsLogo.png" width="85" height="85"><br /><b>Draftkings</b><br />
+      <br /><a href="https://sportsbook.draftkings.com/1000-deposit-bonus?wpsrc=Organic%20Search&wpaffn=Google&wpkw=https%3A%2F%2Fsportsbook.draftkings.com%2F1000-deposit-bonus&wpcn=1000-deposit-bonus">20% Deposit Bonus up to $1,000</a><br />
+      <font size="1"><i>Until Feb. 27th, 2022</i></font></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for a new Draftkings Sportsbook account <a href="https://sportsbook.draftkings.com/r/sb/cmanzoni/US-CO-SB"><u>here</u></a></li>
+        <li>Make your first deposit, and Draftkings will match 20% of the amount in bonus funds, up to $1,000</li>
+        <li>$1 in bonus funds will be released for every $25 in bets placed</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>Sign up with <a href="https://sportsbook.draftkings.com/r/sb/cmanzoni/US-CO-SB"><u>this link</u></a> to receive an extra $100</li>
+        <li>This bonus seems attractive at first, but to claim the full $1,000 you actually need to bet through $25,000</li>
+        <li>Note play-through requirement ($25k) must be met within 90 days</li>
+      </ul>
+    </td>
+    </tr>
+    
   </tbody>
 </table>
 <br />
