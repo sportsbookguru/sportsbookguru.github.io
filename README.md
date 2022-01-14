@@ -7,7 +7,7 @@ With online sports gambling becoming legal in so many states, a huge number of o
 [Overview of Sportsbook Promos](#overview-of-sportsbook-promos)<br />
 [The Best New User Promos: ~$2,000 in risk-free cash](#the-best-new-user-promos)<br />
 [How To Guarantee Yourself Winnings From Risk Free Bets](#how-to-guarantee-yourself-winnings-from-risk-free-bets) <br />
-[Keep The Earnings Going: Sportsbook Reviews and Rankings](#sportsbook-reviews-and-rankings)
+[Keep The Earnings Going: Sportsbook Reviews and Rankings](#keep-the-earnings-going:-sportsbook-reviews-and-rankings)
 
 
 ### Sports Betting 101
@@ -111,8 +111,7 @@ If you find the below advice both helpful and proofitable, please consider donat
     <th>Advice</th>
   </tr>
   </thead>
-  <tbody>
-    
+  <tbody>  
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/MaximBetLogo.jpg" width="85" height="85"><br /><b>MaximBet</b><br />
       <br /><a href="https://maximbet.com/promotions/welcome-to-2022">Deposit match up to $2,000</a><br />
@@ -256,9 +255,7 @@ If you find the below advice both helpful and proofitable, please consider donat
       </ul>
     </td>
   </tr>  
-
-
-        
+    
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/SuperbookLogo.jpg" width="85" height="85"><br /><b>SuperBook</b><br />
       <br /><a href="https://co.superbook.com/info/promotions">Deposit match up to $500</a></td>
@@ -372,8 +369,7 @@ If you find the below advice both helpful and proofitable, please consider donat
         <li>Free bet tokens expire in 14 days</li>
       </ul>
     </td>
-  </tr>    
-    
+  </tr>     
         
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/DraftkingsLogo.png" width="85" height="85"><br /><b>Draftkings</b><br />
