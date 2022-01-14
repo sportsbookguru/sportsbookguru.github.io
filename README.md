@@ -295,6 +295,24 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     </td>
   </tr>    
 
+  <tr valign = "Middle">
+    <td align = "Center"><img src="docs/assets/TwinspiresLogo.png" width="85" height="85"><br /><b>Twinspires Sportsbook</b><br />
+      <br /><a href="https://co.twinspires.com/promotions.inner.shtml?promo=risk-free-first-sports-bet-1000">Risk free bet up to $1,000</a><br />
+      <font size="1"><i>Until Feb. 13th, 2022</i></font></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for Twinspires <a href="https://co.twinspires.com/churchillRegistration.do?bonusCode=FREE1000"><u>here</u></a> using bonus code FREE1000 and make your first deposit of $1,000</li>
+        <li>Make your first bet of $1,000, ensuring the bet will settle within 7 days</li>
+        <li>If your bet loses, you will be refunded the staked amount, up to $1,000.</li>
+        <li>Redeem your free bet within 7 days or it will expire</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>Twinspires does not award bonus funds staked if free bets are won. Use strategy #2 in below section to <b>guarantee $173</b></li>
+      </ul>
+    </td>
+  </tr>              
     
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/BetMGMLogo.png" width="85" height="85"><br /><b>BetMGM</b><br />
@@ -353,28 +371,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     </td>
   </tr>    
     
-    
-    
-  <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/TwinspiresLogo.png" width="85" height="85"><br /><b>Twinspires Sportsbook</b><br />
-      <br /><a href="https://co.twinspires.com/promotions.inner.shtml?promo=risk-free-first-sports-bet-1000">Risk free bet up to $1,000</a><br />
-      <font size="1"><i>Until Feb. 13th, 2022</i></font></td>
-    <td align = "Left">
-      <ol style = "padding-left:10px">
-        <li>Sign up for Twinspires <a href="https://co.twinspires.com/churchillRegistration.do?bonusCode=FREE1000"><u>here</u></a> using bonus code FREE1000 and make your first deposit of $1,000</li>
-        <li>Make your first bet of $1,000, ensuring the bet will settle within 7 days</li>
-        <li>If your bet loses, you will be refunded the staked amount, up to $1,000.</li>
-        <li>Redeem your free bet within 7 days or it will expire</li>
-      </ol>
-    </td>
-    <td align = "Left">
-      <ul style = "padding-left:10px">
-        <li>Twinspires does not award bonus funds staked if free bets are won. Use strategy #2 in below section to <b>guarantee $173</b></li>
-      </ul>
-    </td>
-  </tr>              
         
-    
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/DraftkingsLogo.png" width="85" height="85"><br /><b>Draftkings</b><br />
       <br /><a href="https://sportsbook.draftkings.com/1000-deposit-bonus?wpsrc=Organic%20Search&wpaffn=Google&wpkw=https%3A%2F%2Fsportsbook.draftkings.com%2F1000-deposit-bonus&wpcn=1000-deposit-bonus">20% Deposit Bonus up to $1,000</a><br />
