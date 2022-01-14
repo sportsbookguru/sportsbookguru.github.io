@@ -189,8 +189,6 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       </ul>
     </td>
   </tr>
-    
-
         
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/TipicoLogo.png" width="85" height="85"><br /><b>Tipico Sportsbook</b><br />
@@ -206,7 +204,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       <ul style = "padding-left:10px">
         <li>Make sure to apply your free bet in the betslip, before submitting your first bet.</li>
         <li> ensure all bets are made and will settle within 30 days of signing up or bonus funds will expire</li>
-        <li>Bonus funds have a 1x playthrough requirement, so free bets do get awarded back as cash. Use Strategy #1 adjusted for $750 in section below to <b> guarantee $307.</li>
+        <li>Bonus funds have a 1x playthrough requirement, so free bets do get awarded back as cash. Use Strategy #1 adjusted for $750 in section below to <b> guarantee $307</b>.</li>
       </ul>
     </td>
   </tr>              
