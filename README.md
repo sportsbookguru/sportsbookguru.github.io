@@ -284,7 +284,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
         <li>This is basically a $2,000 risk-free bet on a book that credits free bets back. By far the best promo I have seen</li>
         <li>You will need to bet a total of $4,000 before withdrawing any funds to take full advantage</li>
         <li>Find a friend and take opposite sides of 8 $500 bets with half-point (e.g. -5.5) lines at -110 odds on each side to <b>guarantee $1,820</b> each</li>
-        <li>$1,820 = $4,000 total deposit + $4,000 total match - $4,000 lost betting + ($4,000*100/110 = $3,636 bet winnings) / 2 (each bettor)</li>
+        <li>$1,820 Net + $2,000 deposit back = ($4,000 total deposit + $4,000 total match - $4,000 lost betting + ($4,000*100/110 = $3,636 bet winnings)) / 2 (each bettor)</li>
         <li>Free bet tokens expire in 7 days, be sure to take advantage of this</li>
       </ul>
     </td>
@@ -306,12 +306,72 @@ The easiest way to make money quickly is by taking advantage of the new user pro
         <li>This is basically a $250 risk-free bet on a book that credits free bets back.</li>
         <li>You will need to bet a total of $500 before withdrawing any funds to take full advantage</li>
         <li>Find a friend and take opposite sides of a $500 bet with a half-point (e.g. -5.5) spread at -110 odds on each side to <b>guarantee $227</b> each</li>
-        <li>$227 = $500 total deposit + $500 total match - $500 lost betting + ($500*100/110 = $455 bet winnings) / 2 (each bettor)</li>
+        <li>$227 net + $250 deposit back = ($500 total deposit + $500 total match - $500 lost betting + ($500*100/110 = $455 bet winnings)) / 2 (each bettor)</li>
         <li>Free bet tokens expire in 30 days, be sure to take advantage of this</li>
       </ul>
     </td>
-  </tr>        
+  </tr>       
+
+
+        
+  <tr valign = "Middle">
+    <td align = "Center"><img src="docs/assets/SuperbookLogo.png" width="110" height="85"><br /><b>SuperBook</b><br />
+      <br /><a href="https://co.superbook.com/info/promotions">Deposit match up to $500</a></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for Superbook <a href="https://co.superbook.com/sports"><u>here</u></a> and make your first deposit of $500</li>
+        <li>Superbook will match your deposit dollar for dollar up to $500 in bet credits</li>
+        <li>Bonus vouchers are applied to 50% of your bet, and expire in 14 days</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>Note bonus voucher value does not get credited back to your account as cash, only the winnings</li>
+        <li>Find a friend and take opposite sides of 4 $250 bets with a half-point (e.g. -5.5) spread at -110 odds on each side to <b>guarantee $205</b> each</li>
+        <li>$205 + $500 deposit back = ($1,000 total deposit - ($500 cash & $500 credits) lost betting + (($500 cash+$500 credit)*100/110 = $910 bet winnings)) / 2 (each bettor)</li>
+      </ul>
+    </td>
+  </tr>            
     
+        
+  <tr valign = "Middle">
+    <td align = "Center"><img src="docs/assets/TipicoLogo.png" width="110" height="85"><br /><b>Tipico Sportsbook</b><br />
+      <br /><a href="https://www.tipico.com/us/co-register-sports-112021?bonusCode=RISKFREE750&gclid=Cj0KCQiAuP-OBhDqARIsAD4XHpdQrfG0fHdlXAXyU3FvJmrDISvZvC4M7LJwMeTFGROx3_B60cnzr10aAnjoEALw_wcB">Risk free bet up to $750</a></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for Tipico <a href="https://www.tipico.com/us/co-register-sports-112021?bonusCode=RISKFREE750&gclid=Cj0KCQiAuP-OBhDqARIsAD4XHpdQrfG0fHdlXAXyU3FvJmrDISvZvC4M7LJwMeTFGROx3_B60cnzr10aAnjoEALw_wcB"><u>here</u></a> and make your first deposit of $750</li>
+        <li>Download the Tipico App</li>
+        <li>Make your first bet. if it loses, you will be refunded the staked amount, up to $750.</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>Make sure to apply your free bet in the betslip, before submitting your first bet.</li>
+        <li> ensure all bets are made and will settle within 30 days of signing up or bonus funds will expire</li>
+        <li>Bonus funds have a 1x playthrough requirement, so free bets do get awarded back as cash. Use Strategy #1 adjusted for $750 in section below to <b> guarantee $307.</li>
+      </ul>
+    </td>
+  </tr>              
+    
+  <tr valign = "Middle">
+    <td align = "Center"><img src="docs/assets/TWinspiresLogo.png" width="110" height="85"><br /><b>Twinspires Sportsbook</b><br />
+      <br /><a href="https://co.twinspires.com/promotions.inner.shtml?promo=risk-free-first-sports-bet-1000">Risk free bet up to $1,000</a><br />
+      <font size="1"><i>Until Feb. 13th, 2022</i></font></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for Twinspires <a href="https://co.twinspires.com/churchillRegistration.do?bonusCode=FREE1000"><u>here</u></a> using bonus code FREE1000 and make your first deposit of $1,000</li>
+        <li>Make your first bet of $1,000, ensuring the bet will settle within 7 days</li>
+        <li>If your bet loses, you will be refunded the staked amount, up to $1,000.</li>
+        <li>Redeem your free bet within 7 days or it will expire</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>Twinspires does not award bonus funds staked if free bets are won. Use strategy #2 in below section to <b>guarantee $173</b></li>
+      </ul>
+    </td>
+  </tr>              
+        
     
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/DraftkingsLogo.png" width="85" height="85"><br /><b>Draftkings</b><br />
