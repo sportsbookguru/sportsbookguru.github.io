@@ -1,4 +1,4 @@
-## How to make $$ from online sportsbooks
+## How to make $5,000 from online sportsbooks in one day
 
 With online sports gambling becoming legal in so many states, a huge number of online sportsbooks are being created, and all of them are fighting for your business. Think back to the days when Uber and Lyft were competing by giving out free rides, or food delivery apps were giving out free meals.  The same thing is going on today with online sportsbooks, except rather than rides or food, **they are giving you cash!**  By simply taking advantage of these sportsbook promotions, **I have made over $7,000 in the past year**. I will show you how I was able to do it, and provide you a roadmap to do the same.
 
@@ -7,7 +7,7 @@ With online sports gambling becoming legal in so many states, a huge number of o
 [Overview of Sportsbook Promos](#overview-of-sportsbook-promos)<br />
 [The Best New User Promos: ~$2,000 in risk-free cash](#the-best-new-user-promos)<br />
 [How To Guarantee Yourself Winnings From Risk Free Bets](#how-to-guarantee-yourself-winnings-from-risk-free-bets) <br />
-[Sportsbook Reviews and Rankings](#sportsbook-reviews-and-rankings)
+[Keep The Earnings Going: Sportsbook Reviews and Rankings](#sportsbook-reviews-and-rankings)
 
 
 ### Sports Betting 101
@@ -93,7 +93,7 @@ In addition to new user promos, most books offer a wide range of other promotion
 
 ### The Best New User Promos
 
-The easiest way to make money quickly is by taking advantage of the new user promos that many books are offering.  Below I have detailed a list of my favorite sportsbooks that regularly offer promotions and sign-up bonuses, ordered from most to least valuable. See [How To Guarantee Yourself Winnings From Risk Free Bets](#how-to-guarantee-yourself-winnings-from-risk-free-bets) section that follows for more details on how to use these sign-up bonuses to net yourself **~$2,000 in cash**.
+The easiest way to make money quickly is by taking advantage of the new user promos that many books are offering.  Below I have detailed a list of my favorite sportsbooks that regularly offer promotions and sign-up bonuses, ordered from most to least valuable. See [How To Guarantee Yourself Winnings From Risk Free Bets](#how-to-guarantee-yourself-winnings-from-risk-free-bets) section that follows for more details on how to use these sign-up bonuses to net yourself **~$5,000 in cash**.
 
 <i>Note - you should to check the terms and conditions for these promos on the each sport book’s website for yourself before implementing any of these strategies, too ensure you have the most up-to-date information</i>
 
@@ -474,6 +474,6 @@ Refer to the table below<br />
 
 
 
-### Sportsbook Reviews and Rankings
+### Keep The Earnings Going: Sportsbook Reviews and Rankings
 
 
