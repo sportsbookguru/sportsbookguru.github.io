@@ -93,7 +93,7 @@ In addition to new user promos, most books offer a wide range of other promotion
 
 ### The Best New User Promos
 
-The easiest way to make money quickly is by taking advantage of the new user promos that many books are offering.  Below I have detailed a list of my favorite sportsbooks that regularly offer promotions and sign-up bonuses. See [How To Guarantee Yourself Winnings From Risk Free Bets](#how-to-guarantee-yourself-winnings-from-risk-free-bets) section that follows for more details on how to use these sign-up bonuses to net yourself **~$2,000 in cash**.
+The easiest way to make money quickly is by taking advantage of the new user promos that many books are offering.  Below I have detailed a list of my favorite sportsbooks that regularly offer promotions and sign-up bonuses, ordered from most to least valuable. See [How To Guarantee Yourself Winnings From Risk Free Bets](#how-to-guarantee-yourself-winnings-from-risk-free-bets) section that follows for more details on how to use these sign-up bonuses to net yourself **~$2,000 in cash**.
 
 <i>Note - you should to check the terms and conditions for these promos on the each sport book’s website for yourself before implementing any of these strategies, too ensure you have the most up-to-date information</i>
 
@@ -109,6 +109,29 @@ The easiest way to make money quickly is by taking advantage of the new user pro
   </tr>
   </thead>
   <tbody>
+    
+  <tr valign = "Middle">
+    <td align = "Center"><img src="docs/assets/MaximBetLogo.jpg" width="85" height="85"><br /><b>MaximBet</b><br />
+      <br /><a href="https://maximbet.com/promotions/welcome-to-2022">Deposit match up to $2,000</a><br />
+      <font size="1"><i>Until Jan. 31st, 2022</i></font></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for MaximBet <a href="https://co.maximbet.com/sportsbook/"><u>here</u></a> and make your first deposit of $2,000</li>
+        <li>MaximBet will match your deposit dollar for dollar up to $2,000, and give you an additional $22</li>
+        <li>Deposit match funds only have 1x playthrough requirement, but do expire within 7 days</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>This is basically a $2,000 risk-free bet on a book that credits free bets back. By far the best promo I have seen</li>
+        <li>You will need to bet a total of $4,000 before withdrawing any funds to take full advantage</li>
+        <li>Find a friend and take opposite sides of 8 $500 bets with half-point (e.g. -5.5) lines at -110 odds on each side to <b>guarantee $1,820</b> each</li>
+        <li>$1,820 Net + $2,000 deposit back = ($4,000 total deposit + $4,000 total match - $4,000 lost betting + ($4,000*100/110 = $3,636 bet winnings)) / 2 (each bettor)</li>
+        <li>Free bet tokens expire in 7 days, be sure to take advantage of this</li>
+      </ul>
+    </td>
+  </tr>        
+    
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/FanduelLogo.png" width="85" height="85"><b>Fanduel</b><br />
       <br /><a href="https://www.fanduel.com/sportsbook-search?utm_source=google&utm_medium=cpc&utm_campaign=brand&gclid=Cj0KCQiAieWOBhCYARIsANcOw0yAWOOQ4fHaEtIBemFs1lEer1ruFtqC0jItUMs7teTIWgj110yV_WgaAsegEALw_wcB">$1,000 "Risk Free" Bet</a><br />
@@ -169,6 +192,68 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     </td>
   </tr>
 
+        
+  <tr valign = "Middle">
+    <td align = "Center"><img src="docs/assets/TipicoLogo.png" width="85" height="85"><br /><b>Tipico Sportsbook</b><br />
+      <br /><a href="https://www.tipico.com/us/co-register-sports-112021?bonusCode=RISKFREE750&gclid=Cj0KCQiAuP-OBhDqARIsAD4XHpdQrfG0fHdlXAXyU3FvJmrDISvZvC4M7LJwMeTFGROx3_B60cnzr10aAnjoEALw_wcB">Risk free bet up to $750</a></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for Tipico <a href="https://www.tipico.com/us/co-register-sports-112021?bonusCode=RISKFREE750&gclid=Cj0KCQiAuP-OBhDqARIsAD4XHpdQrfG0fHdlXAXyU3FvJmrDISvZvC4M7LJwMeTFGROx3_B60cnzr10aAnjoEALw_wcB"><u>here</u></a> and make your first deposit of $750</li>
+        <li>Download the Tipico App</li>
+        <li>Make your first bet. if it loses, you will be refunded the staked amount, up to $750.</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>Make sure to apply your free bet in the betslip, before submitting your first bet.</li>
+        <li> ensure all bets are made and will settle within 30 days of signing up or bonus funds will expire</li>
+        <li>Bonus funds have a 1x playthrough requirement, so free bets do get awarded back as cash. Use Strategy #1 adjusted for $750 in section below to <b> guarantee $307.</li>
+      </ul>
+    </td>
+  </tr>              
+ 
+    
+  <tr valign = "Middle">
+    <td align = "Center"><img src="docs/assets/FoxBetLogo.jpeg" width="85" height="85"><br /><b>FoxBet</b><br />
+      <br /><a href="https://co.foxbet.com/#/promotions">$500 first bet risk-free</a><br />
+      <font size="1"><i>Until Dec. 31st, 2022</i></font></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for FoxBet <a href="https://co.foxbet.com/?source=RAF_NOSUHZ#/raf"><u>here</u></a> and make your first deposit of at least $500</li>
+        <li>Within 7 days, <b>opt in by navigating to the <a href="https://co.foxbet.com/#/promotions">promotions</a> tab, click on the "First Bet Risk Free on Us" promotion, and click on "View Challenge" from the pop-up</li>
+        <li>Place your first wager of $500 with minimum odds of -200, and if the bet loses, you will be refunded the bet amount up to $500 in site credit</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>Use <a href="https://co.foxbet.com/?source=RAF_NOSUHZ#/raf"><u>this link</u></a> to sign up for an extra $25 free bet</li>
+        <li>Free bet dollars get awarded back into your account, so use strategy #1 adjusted for $500 rather than $1,000 to <b>guarantee $205</b> each</li>
+        <li>Free bet tokens expire in 7 days</li>
+      </ul>
+    </td>
+  </tr>        
+        
+  <tr valign = "Middle"> 
+    <td align = "Center"><img src="docs/assets/BetMaverickLogo2.png" width="85" height="85"><br /><b>Maverick Sports</b><br />
+      <br /><a href="https://www.playmavericksports.com/info/promotions">$300 Deposit Match + $300 Risk-Free Bet</a><br />
+      <font size="1"><i>Until Mar. 31st, 2022</i></font></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for Maverick Sports <a href="https://www.playmavericksports.com/account/joinUs"><u>here</u></a> and make your first deposit of $300</li>
+        <li>$300 bonus voucher will be credited in 24 hours</li>
+        <li>First bet will also be credited back if lost, up to $300</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>Follow strategy #3 in section below to maximize guaranteed winnigs (<b>$190 guaranteed</b>)</li>
+        <li>Free bets staked are not credited back as cash, only the winnings</li>
+        <li>Free bets expire in 14 days</li>
+      </ul>
+    </td>
+  </tr>    
+
+    
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/BetMGMLogo.png" width="85" height="85"><br /><b>BetMGM</b><br />
       <br /><a href="https://promo.co.betmgm.com/en/promo/sports/risk-free?pid=SearchSportsBrand&af_sub1=7060935&wm=7060935&tdpeh=TMI&utm_source=PPC&utm_medium=Sports&utm_campaign=TMI_BetMGM_CO_Brand+Core_BMM&gclid=CjwKCAiArOqOBhBmEiwAsgeLmRkaOwem6UbMtNdoup_yJa_c9c8jOPCo0uDzssItT_aoykrUXsJTnxoCvhkQAvD_BwE&gclsrc=aw.ds">$1,000 "Risk Free" Bet</a><br />
@@ -208,26 +293,6 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     </td>
   </tr>
     
-  <tr valign = "Middle"> 
-    <td align = "Center"><img src="docs/assets/BetMaverickLogo2.png" width="85" height="85"><br /><b>Maverick Sports</b><br />
-      <br /><a href="https://www.playmavericksports.com/info/promotions">$300 Deposit Match + $300 Risk-Free Bet</a><br />
-      <font size="1"><i>Until Mar. 31st, 2022</i></font></td>
-    <td align = "Left">
-      <ol style = "padding-left:10px">
-        <li>Sign up for Maverick Sports <a href="https://www.playmavericksports.com/account/joinUs"><u>here</u></a> and make your first deposit of $300</li>
-        <li>$300 bonus voucher will be credited in 24 hours</li>
-        <li>First bet will also be credited back if lost, up to $300</li>
-      </ol>
-    </td>
-    <td align = "Left">
-      <ul style = "padding-left:10px">
-        <li>Follow strategy #3 in section below to maximize guaranteed winnigs (<b>$190 guaranteed</b>)</li>
-        <li>Free bets staked are not credited back as cash, only the winnings</li>
-        <li>Free bets expire in 14 days</li>
-      </ul>
-    </td>
-  </tr>    
-    
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/SISportsbookLogo.png" width="110" height="85"><br /><b>SI Sportsbook</b><br />
       <br /><a href="https://www.sisportsbook.com/promotions/">$300 in free bets</a></td>
@@ -246,50 +311,6 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     </td>
   </tr>    
     
-    
-  <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/FoxBetLogo.jpeg" width="85" height="85"><br /><b>FoxBet</b><br />
-      <br /><a href="https://co.foxbet.com/#/promotions">$500 first bet risk-free</a><br />
-      <font size="1"><i>Until Dec. 31st, 2022</i></font></td>
-    <td align = "Left">
-      <ol style = "padding-left:10px">
-        <li>Sign up for FoxBet <a href="https://co.foxbet.com/?source=RAF_NOSUHZ#/raf"><u>here</u></a> and make your first deposit of at least $500</li>
-        <li>Within 7 days, <b>opt in by navigating to the <a href="https://co.foxbet.com/#/promotions">promotions</a> tab, click on the "First Bet Risk Free on Us" promotion, and click on "View Challenge" from the pop-up</li>
-        <li>Place your first wager of $500 with minimum odds of -200, and if the bet loses, you will be refunded the bet amount up to $500 in site credit</li>
-      </ol>
-    </td>
-    <td align = "Left">
-      <ul style = "padding-left:10px">
-        <li>Use <a href="https://co.foxbet.com/?source=RAF_NOSUHZ#/raf"><u>this link</u></a> to sign up for an extra $25 free bet</li>
-        <li>Free bet dollars get awarded back into your account, so use strategy #1 adjusted for $500 rather than $1,000 to <b>guarantee $205</b> each</li>
-        <li>Free bet tokens expire in 7 days</li>
-      </ul>
-    </td>
-  </tr>        
-    
-    
-  <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/MaximBetLogo.jpg" width="85" height="85"><br /><b>MaximBet</b><br />
-      <br /><a href="https://maximbet.com/promotions/welcome-to-2022">Deposit match up to $2,000</a><br />
-      <font size="1"><i>Until Jan. 31st, 2022</i></font></td>
-    <td align = "Left">
-      <ol style = "padding-left:10px">
-        <li>Sign up for MaximBet <a href="https://co.maximbet.com/sportsbook/"><u>here</u></a> and make your first deposit of $2,000</li>
-        <li>MaximBet will match your deposit dollar for dollar up to $2,000, and give you an additional $22</li>
-        <li>Deposit match funds only have 1x playthrough requirement, but do expire within 7 days</li>
-      </ol>
-    </td>
-    <td align = "Left">
-      <ul style = "padding-left:10px">
-        <li>This is basically a $2,000 risk-free bet on a book that credits free bets back. By far the best promo I have seen</li>
-        <li>You will need to bet a total of $4,000 before withdrawing any funds to take full advantage</li>
-        <li>Find a friend and take opposite sides of 8 $500 bets with half-point (e.g. -5.5) lines at -110 odds on each side to <b>guarantee $1,820</b> each</li>
-        <li>$1,820 Net + $2,000 deposit back = ($4,000 total deposit + $4,000 total match - $4,000 lost betting + ($4,000*100/110 = $3,636 bet winnings)) / 2 (each bettor)</li>
-        <li>Free bet tokens expire in 7 days, be sure to take advantage of this</li>
-      </ul>
-    </td>
-  </tr>        
-
         
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/BetRiversLogo.jpg" width="85" height="85"><br /><b>BetRivers</b><br />
@@ -333,25 +354,6 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     </td>
   </tr>            
     
-        
-  <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/TipicoLogo.png" width="85" height="85"><br /><b>Tipico Sportsbook</b><br />
-      <br /><a href="https://www.tipico.com/us/co-register-sports-112021?bonusCode=RISKFREE750&gclid=Cj0KCQiAuP-OBhDqARIsAD4XHpdQrfG0fHdlXAXyU3FvJmrDISvZvC4M7LJwMeTFGROx3_B60cnzr10aAnjoEALw_wcB">Risk free bet up to $750</a></td>
-    <td align = "Left">
-      <ol style = "padding-left:10px">
-        <li>Sign up for Tipico <a href="https://www.tipico.com/us/co-register-sports-112021?bonusCode=RISKFREE750&gclid=Cj0KCQiAuP-OBhDqARIsAD4XHpdQrfG0fHdlXAXyU3FvJmrDISvZvC4M7LJwMeTFGROx3_B60cnzr10aAnjoEALw_wcB"><u>here</u></a> and make your first deposit of $750</li>
-        <li>Download the Tipico App</li>
-        <li>Make your first bet. if it loses, you will be refunded the staked amount, up to $750.</li>
-      </ol>
-    </td>
-    <td align = "Left">
-      <ul style = "padding-left:10px">
-        <li>Make sure to apply your free bet in the betslip, before submitting your first bet.</li>
-        <li> ensure all bets are made and will settle within 30 days of signing up or bonus funds will expire</li>
-        <li>Bonus funds have a 1x playthrough requirement, so free bets do get awarded back as cash. Use Strategy #1 adjusted for $750 in section below to <b> guarantee $307.</li>
-      </ul>
-    </td>
-  </tr>              
     
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/TwinspiresLogo.png" width="85" height="85"><br /><b>Twinspires Sportsbook</b><br />
