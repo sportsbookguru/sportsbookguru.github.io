@@ -395,7 +395,7 @@ There are ways to guarantee yourself that you will net a positive return with th
 
 #### Strategy 1: For books that award "Free Bet" stake when "Free Bets" are won
 **$1,000 Risk Free Bet = $410 return**<br />
-**Applies to:** Fanduel Sportsbook, Barstool Sportsbook
+**Applies to:** Fanduel Sportsbook, Barstool Sportsbook, MaximBet, Tipico, BetRivers, FoxBet
 
 <ol>
   <li>Find a buddy who is also eligible to receive a risk free bet</li>
@@ -422,7 +422,7 @@ Refer to the below table for each pososible scenario and outcome if the above st
 
 #### Strategy 2: For books that do not award "Free Bet" stake when "Free Bets" are won
 **$1,000 Risk Free Bet = $170 return**<br />
-**Applies to:** Caesars, Twinspires, Pointsbet, BetMGM
+**Applies to:** Caesars, Twinspires, Pointsbet, BetMGM, Superbook, Maverick Sports, SISportsbook
 
 <ol>
   <li>Find a buddy who is also eligible to receive a risk free bet</li>
