@@ -129,6 +129,67 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       </ul>
     </td>
   </tr>        
+
+<tr valign = "Middle">
+    <td align = "Center"><img src="docs/assets/FanduelLogo.png" width="85" height="85"><b>Fanduel</b><br />
+      <br /><a href="https://www.fanduel.com/sportsbook-search?utm_source=google&utm_medium=cpc&utm_campaign=brand&gclid=Cj0KCQiAieWOBhCYARIsANcOw0yAWOOQ4fHaEtIBemFs1lEer1ruFtqC0jItUMs7teTIWgj110yV_WgaAsegEALw_wcB">$1,000 "Risk Free" Bet</a><br />
+      <font size="1"><i>Until Jan. 31st, 2022</i></font></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for Fanduel Sportsbook at <a href="https://account.nj.sportsbook.fanduel.com/join#DRAF=Charles_1170624"><u>this link</u></a></li>
+        <li>Make your first deposit of $1,000</li>
+        <li>If your first bet loses, you will be refunded up to $1,000 in site credit</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>Use <a href="https://account.nj.sportsbook.fanduel.com/join#DRAF=Charles_1170624"><u>this link</u>,</a> for an extra $50 credit</li>
+        <li>Make sure your first bet is $1,000</li>
+        <li>On Fanduel, when site credit bets are won, you receive the staked site credit as well (a $1,000 bet made on credit with +100 odds returns $2,000 total). Use strategy #1 mentioned in section below (<b>$410 guaranteed</b>)</li>
+      </ul>
+    </td>
+  </tr>
+    
+  <tr valign = "Middle">
+    <td align = "Center"><img src="docs/assets/BarstoolLogo.png" width="85" height="85"><b>Barstool</b><br />
+      <br /><a href="https://www.barstoolsportsbook.com/promotions/new-player-bonus">$1,000 "Risk Free" Bet</a><br />
+      <font size="1"><i>Until Dec. 31st, 2022</i></font></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for Barstool Sportsbook at <a href="https://www.barstoolsportsbook.com/"><u>this link</u></a></li>
+        <li>Make your first deposit up to $1,000</li>
+        <li>If your first bet loses, you will be refunded up to $1,000 in site credit</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>Make sure your first bet is $1,000</li>
+        <li>On Barstool, when site credit bets are won, you receive the staked site credit as well. Use strategy #1 mentioned in section below (<b>$410 guaranteed</b>)</li>
+      </ul>
+    </td>
+  </tr>    
+    
+  <tr valign = "Middle">
+    <td align = "Center"><img src="docs/assets/CaesarsLogo.jpg" width="85" height="85"><br /><b>Caesars</b><br />
+      <br /><a href="https://www.williamhill.com/us/co/bet/promos/bet-match-1001">$1,000 "Risk Free" Bet</a><br />
+      <font size="1"><i>Until Jan. 31st, 2022</i></font></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for a new Caesars Sportsbook account <a href="https://www.caesars.com/sportsbook-and-casino/referral?AR=CO9524121332&pid=czrs&utm_source=czrs&utm_medium=creferral&c=creferral&utm_campaign=CO9524121332"><u>here</u></a> using promo code CZR1</li>
+        <li>Deposit funds and place your first wager up to $1,001. Note, odds must be -200 or higher</li>
+        <li>Once your bet settles, you will receive a free bet of the same value whether you won or lost</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>Use <a href="https://www.caesars.com/sportsbook-and-casino/referral?AR=CO9524121332&pid=czrs&utm_source=czrs&utm_medium=creferral&c=creferral&utm_campaign=CO9524121332"><u>this link</u></a> for an extra $100 free bet</li>
+        <li>On Caesars, when "free bets" are won, you receive the winnings, but not the staked "free bet" (a $1,000 free bet with +100 odds returns $1,000 total)</li>
+        <li>Beccause you will both receive a free bet (win or lose), use strategy #1 in section below, each using your free bet for bet #2(<b>$410 guaranteed</b>)</li>
+        <li>This is still a great intro offer because you receive the credit regardless of whether your bet wins or loses</li>
+      </ul>
+    </td>
+  </tr>
+    
     
   </tbody>
 </table>
