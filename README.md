@@ -211,30 +211,8 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       </ul>
     </td>
   </tr>              
- 
-    
-  <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/FoxBetLogo.jpeg" width="85" height="85"><br /><b>FoxBet</b><br />
-      <br /><a href="https://co.foxbet.com/#/promotions">$500 first bet risk-free</a><br />
-      <font size="1"><i>Until Dec. 31st, 2022</i></font></td>
-    <td align = "Left">
-      <ol style = "padding-left:10px">
-        <li>Sign up for FoxBet <a href="https://co.foxbet.com/?source=RAF_NOSUHZ#/raf"><u>here</u></a> and make your first deposit of at least $500</li>
-        <li>Within 7 days, <b>opt in by navigating to the <a href="https://co.foxbet.com/#/promotions">promotions</a> tab, click on the "First Bet Risk Free on Us" promotion, and click on "View Challenge" from the pop-up</li>
-        <li>Place your first wager of $500 with minimum odds of -200, and if the bet loses, you will be refunded the bet amount up to $500 in site credit</li>
-      </ol>
-    </td>
-    <td align = "Left">
-      <ul style = "padding-left:10px">
-        <li>Use <a href="https://co.foxbet.com/?source=RAF_NOSUHZ#/raf"><u>this link</u></a> to sign up for an extra $25 free bet</li>
-        <li>Free bet dollars get awarded back into your account, so use strategy #1 adjusted for $500 rather than $1,000 to <b>guarantee $205</b> each</li>
-        <li>Free bet tokens expire in 7 days</li>
-      </ul>
-    </td>
-  </tr>  
-    
 
-        
+            
   <tr valign = "Middle">
     <td align = "Center"><img src="docs/assets/BetRiversLogo.jpg" width="85" height="85"><br /><b>BetRivers</b><br />
       <br /><a href="https://co.betrivers.com/?page=promotions&promotion=deposit-match">Deposit match up to $250</a></td>
@@ -255,6 +233,26 @@ The easiest way to make money quickly is by taking advantage of the new user pro
       </ul>
     </td>
   </tr>       
+    
+  <tr valign = "Middle">
+    <td align = "Center"><img src="docs/assets/FoxBetLogo.jpeg" width="85" height="85"><br /><b>FoxBet</b><br />
+      <br /><a href="https://co.foxbet.com/#/promotions">$500 first bet risk-free</a><br />
+      <font size="1"><i>Until Dec. 31st, 2022</i></font></td>
+    <td align = "Left">
+      <ol style = "padding-left:10px">
+        <li>Sign up for FoxBet <a href="https://co.foxbet.com/?source=RAF_NOSUHZ#/raf"><u>here</u></a> and make your first deposit of at least $500</li>
+        <li>Within 7 days, <b>opt in by navigating to the <a href="https://co.foxbet.com/#/promotions">promotions</a> tab, click on the "First Bet Risk Free on Us" promotion, and click on "View Challenge" from the pop-up</li>
+        <li>Place your first wager of $500 with minimum odds of -200, and if the bet loses, you will be refunded the bet amount up to $500 in site credit</li>
+      </ol>
+    </td>
+    <td align = "Left">
+      <ul style = "padding-left:10px">
+        <li>Use <a href="https://co.foxbet.com/?source=RAF_NOSUHZ#/raf"><u>this link</u></a> to sign up for an extra $25 free bet</li>
+        <li>Free bet dollars get awarded back into your account, so use strategy #1 adjusted for $500 rather than $1,000 to <b>guarantee $205</b> each</li>
+        <li>Free bet tokens expire in 7 days</li>
+      </ul>
+    </td>
+  </tr>  
 
 
         
