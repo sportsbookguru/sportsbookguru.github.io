@@ -238,7 +238,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     <td align = "Left">
       <ol style = "padding-left:10px">
         <li>Sign up for FoxBet <a href="https://co.foxbet.com/?source=RAF_NOSUHZ#/raf"><u>here</u></a> and make your first deposit of at least $500</li>
-        <li>Within 7 days, <b>opt in by navigating to the <a href="https://co.foxbet.com/#/promotions">promotions</a> tab, click on the "First Bet Risk Free on Us" promotion, and click on "View Challenge" from the pop-up</li>
+        <li>Within 7 days, <b>opt in</b> by navigating to the <a href="https://co.foxbet.com/#/promotions">promotions</a> tab, click on the "First Bet Risk Free on Us" promotion, and click on "View Challenge" from the pop-up</li>
         <li>Place your first wager of $500 with minimum odds of -200, and if the bet loses, you will be refunded the bet amount up to $500 in site credit</li>
       </ol>
     </td>
