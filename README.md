@@ -251,27 +251,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
         <li>Free bet tokens expire in 7 days</li>
       </ul>
     </td>
-  </tr>  
-    
-  <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/SuperbookLogo.jpg" width="85" height="85"><br /><b>SuperBook</b><br />
-      <br /><a href="https://co.superbook.com/info/promotions">Deposit match up to $500</a></td>
-    <td align = "Left">
-      <ol style = "padding-left:10px">
-        <li>Sign up for Superbook <a href="https://co.superbook.com/sports"><u>here</u></a> and make your first deposit of $500</li>
-        <li>Superbook will match your deposit dollar for dollar up to $500 in bet credits</li>
-        <li>Bonus vouchers are applied to 50% of your bet, and expire in 14 days</li>
-      </ol>
-    </td>
-    <td align = "Left">
-      <ul style = "padding-left:10px">
-        <li>Note bonus voucher value does not get credited back to your account as cash, only the winnings</li>
-        <li>Find a friend and take opposite sides of 4 $250 bets with a half-point (e.g. -5.5) spread at -110 odds on each side to <b>guarantee $205</b> each</li>
-        <li>$205 + $500 deposit back = ($1,000 total deposit - ($500 cash & $500 credits) lost betting + (($500 cash+$500 credit)*100/110 = $910 bet winnings)) / 2 (each bettor)</li>
-      </ul>
-    </td>
-  </tr>          
-    
+  </tr>   
   </tbody>
 </table>
 <br />
