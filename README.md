@@ -465,12 +465,10 @@ Strategy is basically the same as strategy #2 above, just with different bet amo
   <li>The first bet placed is $600, which is equal to $300 of your cash deposit, plus the $300 deposit match</li>
   <li>The winner of the first bet will receive the $300 cash stake, plus winnings from a $600 bet (the $300 deposit matched does not get credited back to your account)</li>
   <li>Again, because the free bet credit is not awarded back if a bet is won (only the winnings are credited back), the winner of the first bet should only stake $140. The loser of the first bet will still stake the full $300 free bet</li>
+</ul>
 
 Refer to the table below<br />
 <img src="docs/assets/BetMaverickTable.JPG">
-
-
-
 
 
 
