@@ -248,7 +248,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     
     
   <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/FoxBetLogo.png" width="110" height="85"><br /><b>FoxBet</b><br />
+    <td align = "Center"><img src="docs/assets/FoxBetLogo.jpeg" width="85" height="85"><br /><b>FoxBet</b><br />
       <br /><a href="https://co.foxbet.com/#/promotions">$500 first bet risk-free</a><br />
       <font size="1"><i>Until Dec. 31st, 2022</i></font></td>
     <td align = "Left">
@@ -269,7 +269,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     
     
   <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/MaximBetLogo.png" width="110" height="85"><br /><b>MaximBet</b><br />
+    <td align = "Center"><img src="docs/assets/MaximBetLogo.jpg" width="85" height="85"><br /><b>MaximBet</b><br />
       <br /><a href="https://maximbet.com/promotions/welcome-to-2022">Deposit match up to $2,000</a><br />
       <font size="1"><i>Until Jan. 31st, 2022</i></font></td>
     <td align = "Left">
@@ -292,7 +292,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
 
         
   <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/BetRiversLogo.png" width="110" height="85"><br /><b>BetRivers</b><br />
+    <td align = "Center"><img src="docs/assets/BetRiversLogo.jpg" width="85" height="85"><br /><b>BetRivers</b><br />
       <br /><a href="https://co.betrivers.com/?page=promotions&promotion=deposit-match">Deposit match up to $250</a></td>
     <td align = "Left">
       <ol style = "padding-left:10px">
@@ -315,7 +315,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
 
         
   <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/SuperbookLogo.png" width="110" height="85"><br /><b>SuperBook</b><br />
+    <td align = "Center"><img src="docs/assets/SuperbookLogo.jpg" width="85" height="85"><br /><b>SuperBook</b><br />
       <br /><a href="https://co.superbook.com/info/promotions">Deposit match up to $500</a></td>
     <td align = "Left">
       <ol style = "padding-left:10px">
@@ -335,7 +335,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     
         
   <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/TipicoLogo.png" width="110" height="85"><br /><b>Tipico Sportsbook</b><br />
+    <td align = "Center"><img src="docs/assets/TipicoLogo.png" width="85" height="85"><br /><b>Tipico Sportsbook</b><br />
       <br /><a href="https://www.tipico.com/us/co-register-sports-112021?bonusCode=RISKFREE750&gclid=Cj0KCQiAuP-OBhDqARIsAD4XHpdQrfG0fHdlXAXyU3FvJmrDISvZvC4M7LJwMeTFGROx3_B60cnzr10aAnjoEALw_wcB">Risk free bet up to $750</a></td>
     <td align = "Left">
       <ol style = "padding-left:10px">
@@ -354,7 +354,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
   </tr>              
     
   <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/TWinspiresLogo.png" width="110" height="85"><br /><b>Twinspires Sportsbook</b><br />
+    <td align = "Center"><img src="docs/assets/TwinspiresLogo.png" width="85" height="85"><br /><b>Twinspires Sportsbook</b><br />
       <br /><a href="https://co.twinspires.com/promotions.inner.shtml?promo=risk-free-first-sports-bet-1000">Risk free bet up to $1,000</a><br />
       <font size="1"><i>Until Feb. 13th, 2022</i></font></td>
     <td align = "Left">
