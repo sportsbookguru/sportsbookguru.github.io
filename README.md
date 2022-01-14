@@ -144,7 +144,6 @@ The easiest way to make money quickly is by taking advantage of the new user pro
         <li>You will need to bet a total of $4,000 before withdrawing any funds to take full advantage</li>
         <li>Find a friend and take opposite sides of 8 $500 bets with half-point (e.g. -5.5) spreads at -110 odds on each side to <b>guarantee $1,820</b> each (Similar to strategy #1 in following section)</li>
         <li>$1,820 Net + $2,000 deposit back = ($4,000 total deposit + $4,000 total match - $4,000 lost betting + ($4,000*100/110 = $3,636 bet winnings)) / 2 (each bettor)</li>
-        <li>Free bet tokens expire in 7 days, be sure to take advantage of this</li>
       </ul>
     </td>
   </tr>        
