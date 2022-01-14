@@ -211,27 +211,7 @@ The easiest way to make money quickly is by taking advantage of the new user pro
     </td>
   </tr>              
 
-            
-  <tr valign = "Middle">
-    <td align = "Center"><img src="docs/assets/BetRiversLogo.jpg" width="85" height="85"><br /><b>BetRivers</b><br />
-      <br /><a href="https://co.betrivers.com/?page=promotions&promotion=deposit-match">Deposit match up to $250</a></td>
-    <td align = "Left">
-      <ol style = "padding-left:10px">
-        <li>Sign up for BetRivers <a href="https://co.betrivers.com/?page=signup"><u>here</u></a> and make your first deposit of $250 using code 250MATCH</li>
-        <li>BetRivers will match your deposit dollar for dollar up to $250</li>
-        <li>Deposit match funds only have 1x playthrough requirement, but do expire within 30 days</li>
-      </ol>
-    </td>
-    <td align = "Left">
-      <ul style = "padding-left:10px">
-        <li>This is basically a $250 risk-free bet on a book that credits free bets back.</li>
-        <li>You will need to bet a total of $500 before withdrawing any funds to take full advantage</li>
-        <li>Find a friend and take opposite sides of a $500 bet with a half-point (e.g. -5.5) spread at -110 odds on each side to <b>guarantee $227</b> each</li>
-        <li>$227 net + $250 deposit back = ($500 total deposit + $500 total match - $500 lost betting + ($500*100/110 = $455 bet winnings)) / 2 (each bettor)</li>
-        <li>Free bet tokens expire in 30 days, be sure to take advantage of this</li>
-      </ul>
-    </td>
-  </tr>       
+
   </tbody>
 </table>
 <br />
