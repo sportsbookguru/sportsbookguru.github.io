@@ -7,7 +7,7 @@ With online sports gambling becoming legal in so many states, a huge number of o
 [Overview of Sportsbook Promos](#overview-of-sportsbook-promos)<br />
 [The Best New User Promos: ~$2,000 in risk-free cash](#the-best-new-user-promos)<br />
 [How To Guarantee Yourself Winnings From Risk Free Bets](#how-to-guarantee-yourself-winnings-from-risk-free-bets) <br />
-[Keep The Earnings Going: Sportsbook Reviews and Rankings](#keep-the-earnings-going:-sportsbook-reviews-and-rankings)
+[Keep The Earnings Going: Sportsbook Reviews and Rankings](#keep-the-earnings-going-sportsbook-reviews-and-rankings)<br />
 
 
 ### Sports Betting 101
@@ -473,5 +473,5 @@ Refer to the table below<br />
 
 
 ### Keep The Earnings Going: Sportsbook Reviews and Rankings
-
+text
 
