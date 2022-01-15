@@ -507,3 +507,14 @@ Refer to the table below<br />
 
 ### Keep The Earnings Going: Sportsbook Reviews and Rankings
 (Under Development)
+
+
+function init() {
+  Tabletop.init( {
+    key: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSLLSGsf8n8lUTEf_zC3vuJbAxYKftJvDhQ8HqFzhTH3K4aDTro2tIC72IgM5So2eBqna1pQ5DuYmcD/pub?gid=551220240&single=true&output=csv',
+    simpleSheet: true }
+  ).then(function(data, tabletop) { 
+    console.log(data)
+  })
+}
+window.addEventListener('DOMContentLoaded', init)
