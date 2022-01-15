@@ -94,7 +94,7 @@ In addition to new user promos, most books offer a wide range of other promotion
 ### The Best New User Promos
 The easiest way to make money quickly is by taking advantage of the new user promos that many books are offering.  Below I have detailed a list of my favorite sportsbooks that regularly offer promotions and sign-up bonuses, ordered from most to least valuable. See [How To Guarantee Yourself Winnings From Risk Free Bets](#how-to-guarantee-yourself-winnings-from-risk-free-bets) section that follows for more details on how to use these sign-up bonuses to net yourself **~$5,000 in cash**.
 
-<i>Note - you should to check the terms and conditions for these promos on the each sport book’s website for yourself before implementing any of these strategies, too ensure you have the most up-to-date information</i>
+<i>Note - you should to check the terms and conditions for these promos on the each sport book’s website for yourself before implementing any of these strategies, too ensure you have the most up-to-date information. The promos and guidance below based on promotions offered in the state of colorado. Availability of certain sportsbooks and promos may vary from state to state</i>
 
 <i>If you find this advice both helpful and profitable, please consider donating in order to help keep the information up to date and new tips coming!</i>
 <br />
