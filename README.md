@@ -97,12 +97,34 @@ The easiest way to make money quickly is by taking advantage of the new user pro
 <i>Note - you should to check the terms and conditions for these promos on the each sport book’s website for yourself before implementing any of these strategies, too ensure you have the most up-to-date information</i>
 
 <i>If you find this advice both helpful and profitable, please consider donating in order to help keep the information up to date and new tips coming!</i>
+<br />
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="KW3N2TJEZRQC8" />
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
+<br />
+<br />
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="K47B443CC6FNW">
+<table>
+<tr><td><input type="hidden" name="on0" value="Donate to Keep the Advice Coming!">Donate to Keep the Advice Coming!</td></tr><tr><td><select name="os0">
+	<option value="(0.2% of $5k)">(0.2% of $5k) $10.00 USD</option>
+	<option value="(0.5% of $5k)">(0.5% of $5k) $25.00 USD</option>
+	<option value="(1% of $5k)">(1% of $5k) $50.00 USD</option>
+	<option value="(2% of $5k)">(2% of $5k) $100.00 USD</option>
+	<option value="(5% of $5k)">(5% of $5k) $250.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+<br />
+<br />
 
 
 
