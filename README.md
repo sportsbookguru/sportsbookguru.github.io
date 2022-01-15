@@ -98,15 +98,6 @@ The easiest way to make money quickly is by taking advantage of the new user pro
 
 <i>If you find this advice both helpful and profitable, please consider donating in order to help keep the information up to date and new tips coming!</i>
 <br />
-
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="KW3N2TJEZRQC8" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
-<br />
-<br />
-
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="K47B443CC6FNW">
@@ -125,8 +116,6 @@ The easiest way to make money quickly is by taking advantage of the new user pro
 </form>
 <br />
 <br />
-
-
 
 <table width ="100%">
   <col style="width:20%">
@@ -498,18 +487,20 @@ Refer to the table below<br />
 <img src="docs/assets/BetMaverickTable.JPG">
 
 <i>If you find this advice both helpful and profitable, please consider donating in order to help keep the information up to date and new tips coming!</i>
-
+<br />
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="K47B443CC6FNW">
 <table>
-<tr><td><input type="hidden" name="on0" value="Donate to keep the tips coming!">Donate to keep the tips coming!</td></tr><tr><td><select name="os0">
-	<option value="(0.5%)">(0.5%) $25.00 USD</option>
-	<option value="(1%)">(1%) $50.00 USD</option>
-	<option value="(2%)">(2%) $100.00 USD</option>
-	<option value="(5%)">(5%) $250.00 USD</option>
+<tr><td><input type="hidden" name="on0" value="Donate to Keep the Advice Coming!">Donate to Keep the Advice Coming!</td></tr><tr><td><select name="os0">
+	<option value="(0.2% of $5k)">(0.2% of $5k) $10.00 USD</option>
+	<option value="(0.5% of $5k)">(0.5% of $5k) $25.00 USD</option>
+	<option value="(1% of $5k)">(1% of $5k) $50.00 USD</option>
+	<option value="(2% of $5k)">(2% of $5k) $100.00 USD</option>
+	<option value="(5% of $5k)">(5% of $5k) $250.00 USD</option>
 </select> </td></tr>
 </table>
-<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
+<input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
