@@ -98,21 +98,124 @@ The easiest way to make money quickly is by taking advantage of the new user pro
 
 <i>If you find this advice both helpful and profitable, please consider donating in order to help keep the information up to date and new tips coming!</i>
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<table>
-<tr><td><input type="hidden" name="on0" value="Donate to keep the tips coming!">Donate to keep the tips coming!</td></tr><tr><td><select name="os0">
-	<option value="(0.5%)">(0.5%) $25.00 USD</option>
-	<option value="(1%)">(1%) $50.00 USD</option>
-	<option value="(2%)">(2%) $100.00 USD</option>
-	<option value="(5%)">(5%) $250.00 USD</option>
-</select> </td></tr>
-</table>
-<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-<br />
+<div id="smart-button-container">
+    <div style="text-align: center"><label for="description"> </label><input type="text" name="descriptionInput" id="description" maxlength="127" value=""></div>
+      <p id="descriptionError" style="visibility: hidden; color:red; text-align: center;">Please enter a description</p>
+    <div style="text-align: center"><label for="amount"> </label><input name="amountInput" type="number" id="amount" value="" ><span> USD</span></div>
+      <p id="priceLabelError" style="visibility: hidden; color:red; text-align: center;">Please enter a price</p>
+    <div id="invoiceidDiv" style="text-align: center; display: none;"><label for="invoiceid"> </label><input name="invoiceid" maxlength="127" type="text" id="invoiceid" value="" ></div>
+      <p id="invoiceidError" style="visibility: hidden; color:red; text-align: center;">Please enter an Invoice ID</p>
+    <div style="text-align: center; margin-top: 0.625rem;" id="paypal-button-container"></div>
+  </div>
+  <script src="https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
+  <script>
+  function initPayPalButton() {
+    var description = document.querySelector('#smart-button-container #description');
+    var amount = document.querySelector('#smart-button-container #amount');
+    var descriptionError = document.querySelector('#smart-button-container #descriptionError');
+    var priceError = document.querySelector('#smart-button-container #priceLabelError');
+    var invoiceid = document.querySelector('#smart-button-container #invoiceid');
+    var invoiceidError = document.querySelector('#smart-button-container #invoiceidError');
+    var invoiceidDiv = document.querySelector('#smart-button-container #invoiceidDiv');
+
+    var elArr = [description, amount];
+
+    if (invoiceidDiv.firstChild.innerHTML.length > 1) {
+      invoiceidDiv.style.display = "block";
+    }
+
+    var purchase_units = [{"amount":{"currency_code":"USD","value":1,"breakdown":{"item_total":{"currency_code":"USD","value":1}}},"items":[{"name":"item name","unit_amount":{"currency_code":"USD","value":1},"quantity":"1","category":"DONATION"}]}]
+
+    function validate(event) {
+      return event.value.length > 0;
+    }
+
+    paypal.Buttons({
+      style: {
+        color: 'gold',
+        shape: 'pill',
+        label: 'donate',
+        layout: 'horizontal',
+        
+      },
+
+      onInit: function (data, actions) {
+        actions.disable();
+
+        if(invoiceidDiv.style.display === "block") {
+          elArr.push(invoiceid);
+        }
+
+        elArr.forEach(function (item) {
+          item.addEventListener('keyup', function (event) {
+            var result = elArr.every(validate);
+            if (result) {
+              actions.enable();
+            } else {
+              actions.disable();
+            }
+          });
+        });
+      },
+
+      onClick: function () {
+        if (description.value.length < 1) {
+          descriptionError.style.visibility = "visible";
+        } else {
+          descriptionError.style.visibility = "hidden";
+        }
+
+        if (amount.value.length < 1) {
+          priceError.style.visibility = "visible";
+        } else {
+          priceError.style.visibility = "hidden";
+        }
+
+        if (invoiceid.value.length < 1 && invoiceidDiv.style.display === "block") {
+          invoiceidError.style.visibility = "visible";
+        } else {
+          invoiceidError.style.visibility = "hidden";
+        }
+
+        purchase_units[0].description = description.value;
+        purchase_units[0].amount.value = amount.value;
+        purchase_units[0].amount.breakdown.item_total.value = amount.value;
+        purchase_units[0].items[0].unit_amount.value = amount.value;
+
+        if(invoiceid.value !== '') {
+          purchase_units[0].invoice_id = invoiceid.value;
+        }
+      },
+
+      createOrder: function (data, actions) {
+        return actions.order.create({
+          purchase_units: purchase_units,
+        });
+      },
+
+      onApprove: function (data, actions) {
+        return actions.order.capture().then(function (orderData) {
+
+          // Full available details
+          console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
+
+          // Show a success message within this page, e.g.
+          const element = document.getElementById('paypal-button-container');
+          element.innerHTML = '';
+          element.innerHTML = '<h3>Thank you for your payment!</h3>';
+
+          // Or go to another URL:  actions.redirect('thank_you.html');
+          
+        });
+      },
+
+      onError: function (err) {
+        console.log(err);
+      }
+    }).render('#paypal-button-container');
+  }
+  initPayPalButton();
+  </script>
 
 
 <table width ="100%">
